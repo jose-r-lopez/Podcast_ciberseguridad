@@ -50,9 +50,23 @@
       <itunes:explicit>no</itunes:explicit>
       <description>
       📰 Noticias Relacionadas:
-            * El «fraude al CEO» llega a Asturias (12/02/2020): <a href="https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm">https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm</a>
+            * El «fraude al CEO» llega a Asturias (12/02/2020): "https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm">https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm"
             * Estafan a una empresa de Avilés un total de 194.000 euros por el 'timo del CEO' (01/06/2020): https://www.lavanguardia.com/local/asturias/20200601/481547197721/estafan-a-una-empresa-de-aviles-un-total-de-194000-euros-por-el-timo-del-ceo.html
             * El Ayuntamiento de Oviedo, víctima del 'fraude del CEO', denuncia que le han estafado 60.000 euros (13/04/2021): https://www.elcomercio.es/oviedo/ayuntamiento-oviedo-victima-fraude-ceo-denuncia-estafa-60000-euros-20210413000935-ntvo.html
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1] 🔐 ¡No puedes pasar!: Trucos para crear una clave segura..</title>
+      <pubDate>10/17/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa3.m4a"/>
+      <itunes:duration>4:56</itunes:duration>
+      <guid isPermaLink="false">cepod03</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            * Las peores contraseñas de 2021 en España (31/12/2021): https://derechodelared.com/peores-contrasenas-de-2021/
       </description>
     </item>
   </channel>
