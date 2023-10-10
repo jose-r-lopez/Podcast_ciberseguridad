@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Hablemos de ciberseguridad para todos con Redondo</title>
+    <googleplay:author>José Manuel Redondo</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Universidad de Oviedo</rawvoice:location>
+    <rawvoice:frequency>Semanal</rawvoice:frequency>
+    <author>José Manuel Redondo</author>
+    <itunes:author>José Manuel Redondo</itunes:author>
+    <itunes:category text="Ciberseguridad" />
+    <image>
+      <url>https://avatars.githubusercontent.com/u/22662574?s=400&u=9a111623765086af31d7f81a911ab99767082d93&v=4</url>
+      <title>Cobra Kali</title>
+    </image>
+    <itunes:owner>
+      <itunes:name>José Manuel Redondo</itunes:name>
+    </itunes:owner>
+    <itunes:keywords>Ciberseguridad, fraudes, prevención, concienciación</itunes:keywords>
+    <copyright>José Manuel Redondo</copyright>
+    <description>Hablemos y prevengamos ataques de ciberseguridad y fraudes. Un podcast pensado para todo el mundo, ¡aunque no tenga conocimientos técnicos! </description>
+    <googleplay:image href="https://avatars.githubusercontent.com/u/22662574?s=400&u=9a111623765086af31d7f81a911ab99767082d93&v=4" />
+    <language>es-es</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Tue, 10 Oct 2023 13:00:00 PDT</pubDate>
+    <link>https://jose-r-lopez.github.io/Podcast_ciberseguridad/feed.xml</link>
+    <itunes:image href="https://avatars.githubusercontent.com/u/22662574?s=400&u=9a111623765086af31d7f81a911ab99767082d93&v=4" />
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>🏁 ¿Que hace un académico como tú en un sitio como este?: Presentación y consejos generales</title>
+      <pubDate>03/10/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/programa1.m4a" type="audio/mpeg"/>
+      <itunes:duration>4:45</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      Estreno de mi sección en Onda Cero
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>🥷 Esto es más falso que algunos perfiles de LinkedIn: Fraudes del CEO.</title>
+      <pubDate>11/10/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/programa2.m4a" type="audio/mpeg"/>
+      <itunes:duration>4:47</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            El «fraude al CEO» llega a Asturias (12/02/2020): https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm
+            Estafan a una empresa de Avilés un total de 194.000 euros por el 'timo del CEO' (01/06/2020): https://www.lavanguardia.com/local/asturias/20200601/481547197721/estafan-a-una-empresa-de-aviles-un-total-de-194000-euros-por-el-timo-del-ceo.html
+            El Ayuntamiento de Oviedo, víctima del 'fraude del CEO', denuncia que le han estafado 60.000 euros (13/04/2021): https://www.elcomercio.es/oviedo/ayuntamiento-oviedo-victima-fraude-ceo-denuncia-estafa-60000-euros-20210413000935-ntvo.html
+      </description>
+    </item>
+  </channel>
+</rss>
