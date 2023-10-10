@@ -19,12 +19,12 @@
     <itunes:keywords>Ciberseguridad, fraudes, prevención, concienciación</itunes:keywords>
     <copyright>José Manuel Redondo</copyright>
     <description>Hablemos y prevengamos ataques de ciberseguridad y fraudes. Un podcast pensado para todo el mundo, ¡aunque no tenga conocimientos técnicos! </description>
-    <googleplay:image href="https://github.com/jose-r-lopez/Podcast_ciberseguridad/blob/eda4eb930b68e13cae821bea5904bad99674d8f7/cobrakali.png" />
+    <googleplay:image href="https://jose-r-lopez.github.io/Podcast_ciberseguridad/cobrakali.png" />
     <language>es-es</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Tue, 10 Oct 2023 13:00:00 PDT</pubDate>
     <link>https://jose-r-lopez.github.io/Podcast_ciberseguridad/feed.xml</link>
-    <itunes:image href="https://github.com/jose-r-lopez/Podcast_ciberseguridad/blob/eda4eb930b68e13cae821bea5904bad99674d8f7/cobrakali.png" />
+    <itunes:image href="https://jose-r-lopez.github.io/Podcast_ciberseguridad/cobrakali.png" />
     <item>
       <author>José Manuel Redondo</author>
       <itunes:author>José Manuel Redondo</itunes:author>
@@ -49,9 +49,11 @@
       <itunes:explicit>no</itunes:explicit>
       <description>
       📰 Noticias Relacionadas:
-            El «fraude al CEO» llega a Asturias (12/02/2020): https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm
-            Estafan a una empresa de Avilés un total de 194.000 euros por el 'timo del CEO' (01/06/2020): https://www.lavanguardia.com/local/asturias/20200601/481547197721/estafan-a-una-empresa-de-aviles-un-total-de-194000-euros-por-el-timo-del-ceo.html
-            El Ayuntamiento de Oviedo, víctima del 'fraude del CEO', denuncia que le han estafado 60.000 euros (13/04/2021): https://www.elcomercio.es/oviedo/ayuntamiento-oviedo-victima-fraude-ceo-denuncia-estafa-60000-euros-20210413000935-ntvo.html
+        <ul>
+            <li>El «fraude al CEO» llega a Asturias (12/02/2020): <a href="https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm">https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm</a></li>
+            <li>Estafan a una empresa de Avilés un total de 194.000 euros por el 'timo del CEO' (01/06/2020): https://www.lavanguardia.com/local/asturias/20200601/481547197721/estafan-a-una-empresa-de-aviles-un-total-de-194000-euros-por-el-timo-del-ceo.html</li>
+            <li>El Ayuntamiento de Oviedo, víctima del 'fraude del CEO', denuncia que le han estafado 60.000 euros (13/04/2021): https://www.elcomercio.es/oviedo/ayuntamiento-oviedo-victima-fraude-ceo-denuncia-estafa-60000-euros-20210413000935-ntvo.html</li>
+        </ul>
       </description>
     </item>
   </channel>
