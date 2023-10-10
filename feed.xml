@@ -19,7 +19,9 @@
     <itunes:keywords>Ciberseguridad, fraudes, prevención, concienciación</itunes:keywords>
     <copyright>José Manuel Redondo López</copyright>
     <description>Mi sección de radio de Onda Cero Oviedo ("Más de uno", https://www.ondacero.es/temas/oviedo-1) hecha podcast. 
-      Hablemos y prevengamos ataques de ciberseguridad y fraudes. Un podcast pensado para todo el mundo, ¡aunque no tenga conocimientos técnicos! </description>
+      ¡Hablemos y prevengamos ataques de ciberseguridad y fraudes con audios de menos de 5 minutos!. 
+      Un podcast pensado para todo el mundo, ¡aunque no tenga conocimientos técnicos! 
+    </description>
     <googleplay:image href="https://jose-r-lopez.github.io/Podcast_ciberseguridad/cobrakali.png" />
     <language>es-es</language>
     <itunes:explicit>no</itunes:explicit>
