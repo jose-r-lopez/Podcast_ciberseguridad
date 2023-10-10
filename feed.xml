@@ -30,7 +30,7 @@
       <itunes:author>José Manuel Redondo</itunes:author>
       <title>[T1] 🏁 ¿Que hace un académico como tú en un sitio como este?: Presentación y consejos generales</title>
       <pubDate>03/10/2022</pubDate>
-      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/programa1.m4a" type="audio/mpeg"/>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/programa1.m4a" type="audio/mp4"/>
       <itunes:duration>4:45</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -43,9 +43,9 @@
       <itunes:author>José Manuel Redondo</itunes:author>
       <title>[T1] 🥷 Esto es más falso que algunos perfiles de LinkedIn: Fraudes del CEO.</title>
       <pubDate>11/10/2022</pubDate>
-      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/programa2.m4a" type="audio/mpeg"/>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/programa2.m4a" type="audio/mp4"/>
       <itunes:duration>4:47</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <guid isPermaLink="false">cepod02</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
       📰 Noticias Relacionadas:
