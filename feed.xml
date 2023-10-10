@@ -10,7 +10,7 @@
     <itunes:author>José Manuel Redondo</itunes:author>
     <itunes:category text="Ciberseguridad" />
     <image>
-      <url>https://avatars.githubusercontent.com/u/22662574?s=400&u=9a111623765086af31d7f81a911ab99767082d93&v=4</url>
+      <url>https://github.com/jose-r-lopez/Podcast_ciberseguridad/blob/eda4eb930b68e13cae821bea5904bad99674d8f7/cobrakali.png</url>
       <title>Cobra Kali</title>
     </image>
     <itunes:owner>
@@ -19,12 +19,12 @@
     <itunes:keywords>Ciberseguridad, fraudes, prevención, concienciación</itunes:keywords>
     <copyright>José Manuel Redondo</copyright>
     <description>Hablemos y prevengamos ataques de ciberseguridad y fraudes. Un podcast pensado para todo el mundo, ¡aunque no tenga conocimientos técnicos! </description>
-    <googleplay:image href="https://avatars.githubusercontent.com/u/22662574?s=400&u=9a111623765086af31d7f81a911ab99767082d93&v=4" />
+    <googleplay:image href="https://github.com/jose-r-lopez/Podcast_ciberseguridad/blob/eda4eb930b68e13cae821bea5904bad99674d8f7/cobrakali.png" />
     <language>es-es</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Tue, 10 Oct 2023 13:00:00 PDT</pubDate>
     <link>https://jose-r-lopez.github.io/Podcast_ciberseguridad/feed.xml</link>
-    <itunes:image href="https://avatars.githubusercontent.com/u/22662574?s=400&u=9a111623765086af31d7f81a911ab99767082d93&v=4" />
+    <itunes:image href="https://github.com/jose-r-lopez/Podcast_ciberseguridad/blob/eda4eb930b68e13cae821bea5904bad99674d8f7/cobrakali.png" />
     <item>
       <author>José Manuel Redondo</author>
       <itunes:author>José Manuel Redondo</itunes:author>
