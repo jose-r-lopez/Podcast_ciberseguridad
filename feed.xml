@@ -10,7 +10,7 @@
     <itunes:author>José Manuel Redondo</itunes:author>
     <itunes:category text="Ciberseguridad" />
     <image>
-      <url>https://github.com/jose-r-lopez/Podcast_ciberseguridad/blob/eda4eb930b68e13cae821bea5904bad99674d8f7/cobrakali.png</url>
+      <url>cobrakali.png</url>
       <title>Cobra Kali</title>
     </image>
     <itunes:owner>
