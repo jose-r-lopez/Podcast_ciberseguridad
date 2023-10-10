@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Hablemos de ciberseguridad para todos con Redondo</title>
+    <title>Hablemos de ciberseguridad para todos con J. Redondo</title>
     <googleplay:author>José Manuel Redondo</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>Universidad de Oviedo</rawvoice:location>
+    <rawvoice:location>Onda Cero Oviedo, Universidad de Oviedo</rawvoice:location>
     <rawvoice:frequency>Semanal</rawvoice:frequency>
-    <author>José Manuel Redondo</author>
-    <itunes:author>José Manuel Redondo</itunes:author>
+    <author>José Manuel Redondo López</author>
+    <itunes:author>José Manuel Redondo López</itunes:author>
     <itunes:category text="Ciberseguridad" />
     <image>
       <url>https://jose-r-lopez.github.io/Podcast_ciberseguridad/cobrakali.png</url>
       <title>Cobra Kali</title>
     </image>
     <itunes:owner>
-      <itunes:name>José Manuel Redondo</itunes:name>
+      <itunes:name>José Manuel Redondo López</itunes:name>
     </itunes:owner>
     <itunes:keywords>Ciberseguridad, fraudes, prevención, concienciación</itunes:keywords>
-    <copyright>José Manuel Redondo</copyright>
+    <copyright>José Manuel Redondo López</copyright>
     <description>Mi sección de radio de Onda Cero Oviedo ("Más de uno", https://www.ondacero.es/temas/oviedo-1) hecha podcast. 
       Hablemos y prevengamos ataques de ciberseguridad y fraudes. Un podcast pensado para todo el mundo, ¡aunque no tenga conocimientos técnicos! </description>
     <googleplay:image href="https://jose-r-lopez.github.io/Podcast_ciberseguridad/cobrakali.png" />
@@ -29,7 +29,7 @@
     <item>
       <author>José Manuel Redondo</author>
       <itunes:author>José Manuel Redondo</itunes:author>
-      <title>[T1] 🏁 ¿Que hace un académico como tú en un sitio como este?: Presentación y consejos generales</title>
+      <title>[T1.1] 🏁 ¿Que hace un académico como tú en un sitio como este?: Presentación y consejos generales</title>
       <pubDate>10/03/2022</pubDate>
       <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa1.m4a"/>
       <itunes:duration>4:45</itunes:duration>
@@ -42,7 +42,7 @@
     <item>
       <author>José Manuel Redondo</author>
       <itunes:author>José Manuel Redondo</itunes:author>
-      <title>[T1] 🥷 Esto es más falso que algunos perfiles de LinkedIn: Fraudes del CEO.</title>
+      <title>[T1.2] 🥷 Esto es más falso que algunos perfiles de LinkedIn: Fraudes del CEO</title>
       <pubDate>10/11/2022</pubDate>
       <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa2.m4a"/>
       <itunes:duration>4:47</itunes:duration>
@@ -58,7 +58,7 @@
     <item>
       <author>José Manuel Redondo</author>
       <itunes:author>José Manuel Redondo</itunes:author>
-      <title>[T1] 🔐 ¡No puedes pasar!: Trucos para crear una clave segura..</title>
+      <title>[T1.3] 🔐 ¡No puedes pasar!: Trucos para crear una clave segura</title>
       <pubDate>10/17/2022</pubDate>
       <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa3.m4a"/>
       <itunes:duration>4:56</itunes:duration>
@@ -67,6 +67,22 @@
       <description>
       📰 Noticias Relacionadas:
             * Las peores contraseñas de 2021 en España (31/12/2021): https://derechodelared.com/peores-contrasenas-de-2021/
+      </description>
+    </item>
+        <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.4] 💡 A este estafador no le faltan luces: El timo del corte de la luz</title>
+      <pubDate>10/24/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa4.m4a"/>
+      <itunes:duration>4:47</itunes:duration>
+      <guid isPermaLink="false">cepod04</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            * Detenido un conocido estafador por timar 20.000 euros a hosteleros con facturas de la luz (01/02/2022): https://www.elcomercio.es/gijon/detenido-conocido-estafador-20220201001516-ntvo.html
+            * Estafan 11.000 euros a comercios asturianos a través de falsas deudas de la factura eléctrica (05/05/2022): https://www.elcomercio.es/asturias/estafan-comercios-bares-falsas-deudas-factura-electrica-20220505103310-nt.html
+            * "Te van a cortar la luz en tres horas": vuelve la estafa de la factura eléctrica (13/10/2022): https://www.lne.es/asturias/2022/10/13/cortar-luz-tres-horas-vuelve-77183105.html
       </description>
     </item>
   </channel>
