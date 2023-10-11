@@ -185,5 +185,35 @@
             ▶️ El "timo" de la doble llamada sigue vigente: https://www.ocu.org/tecnologia/internet-telefonia/noticias/timo-doble-llamada
       </description>
     </item>
+        <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.11] 💉 ¿Quieres un antivirus gratis? Yo te daré decenas de ellos :)</title>
+      <pubDate>12/13/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa11.m4a"/>
+      <itunes:duration>4:49</itunes:duration>
+      <guid isPermaLink="false">cepod11</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Enlace a Virustotal para analizar archivos sospechosos con más de 60 antivirus: https://www.virustotal.com/gui/home/upload
+            ▶️ Enlace a Virustotal para analizar direcciones de Internet con más de 90 analizadores: https://www.virustotal.com/gui/home/url
+            ▶️ Enlace a Virustotal para búsquedas variadas: https://www.virustotal.com/gui/home/search
+      </description>
+    </item>
+        <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.12] 😱 ¿Y si ya te han robado una clave y no lo sabes?</title>
+      <pubDate>12/19/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa12.m4a"/>
+      <itunes:duration>4:38</itunes:duration>
+      <guid isPermaLink="false">cepod12</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      🌍 Enlaces Relacionados:
+            ▶️ Enlace a Have I been pwnd?: https://haveibeenpwned.com/
+      </description>
+    </item>
   </channel>
 </rss>
