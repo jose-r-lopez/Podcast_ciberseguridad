@@ -120,5 +120,36 @@
             ▶️ El ciberataque desde una dirección rusa obliga al Ayuntamiento de Gijón a revisar todos sus equipos (26/04/2022): https://www.elcomercio.es/gijon/hackers-atacaron-direccion-rusa-ayuntamiento-gijon-20220426004909-ntvo.html
       </description>
     </item>
+        <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.7] 🥸 Identifícame si puedes: La falsificación del número que te llama o Caller ID Spoofing</title>
+      <pubDate>11/14/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa7.m4a"/>
+      <itunes:duration>4:56</itunes:duration>
+      <guid isPermaLink="false">cepod07</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Banco de España alerta de un fraude que suplanta la identidad de bancos a través de SMS y llamadas (11/01/2022): https://www.europapress.es/economia/finanzas-00340/noticia-banco-espana-alerta-fraude-suplanta-identidad-bancos-traves-sms-llamadas-20220111193328.html
+            ▶️ Suplantación de SMS y del identificador de llamadas (11/01/2022): https://clientebancario.bde.es/pcb/es/blog/suplantacion-de-sms-y-del-identificador-de-llamadas.html
+            ▶️ Esto es el 'call spoofing', la nueva estafa que afecta a clientes del Banco Unicaja (03/11/2022): https://www-mundodeportivo-com.cdn.ampproject.org/c/s/www.mundodeportivo.com/actualidad/20221103/1001890393/esto-call-spoofing-nueva-estafa-afecta-clientes-banco-unicaja-act-pau.html?facet=amp      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.8] 📨 Está factura pasa factura: El timo del proveedor o de la factura falsa</title>
+      <pubDate>11/21/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa8.m4a"/>
+      <itunes:duration>4:53</itunes:duration>
+      <guid isPermaLink="false">cepod08</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Historia real: cómo pagué una factura a un ciberdelincuente que entró en mi cuenta de correo (24/05/2022) por Elisa Vivancos (INCIBE): https://www.incibe.es/protege-tu-empresa/blog/historia-real-pague-factura-ciberdelincuente-entro-mi-cuenta-correo
+            ▶️ Cómo protegerte de la estafa del pago de las facturas (05/07/2022): https://clientebancario.bde.es/pcb/es/blog/cuidado-con-las-estafas-a-la-hora-de-pagar-una-factura.html
+            ▶️ La estafa de las facturas crece en España: qué hacer si caes en la trampa (07/07/2022): https://www.lavanguardia.com/economia/bolsillo/20220707/8389472/estafa-factura-correo-empresa-proveedor-solucionar.html
+      </description>
+    </item>
   </channel>
 </rss>
