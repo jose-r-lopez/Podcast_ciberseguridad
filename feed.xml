@@ -15,6 +15,7 @@
     </image>
     <itunes:owner>
       <itunes:name>José Manuel Redondo López</itunes:name>
+      <itunes:email>redondojose@uniovi.es</itunes:email>
     </itunes:owner>
     <itunes:keywords>Ciberseguridad, fraudes, prevención, concienciación</itunes:keywords>
     <copyright>José Manuel Redondo López</copyright>
@@ -52,9 +53,9 @@
       <itunes:explicit>no</itunes:explicit>
       <description>
       📰 Noticias Relacionadas:
-            * El «fraude al CEO» llega a Asturias (12/02/2020): "https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm">https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm"
-            * Estafan a una empresa de Avilés un total de 194.000 euros por el 'timo del CEO' (01/06/2020): https://www.lavanguardia.com/local/asturias/20200601/481547197721/estafan-a-una-empresa-de-aviles-un-total-de-194000-euros-por-el-timo-del-ceo.html
-            * El Ayuntamiento de Oviedo, víctima del 'fraude del CEO', denuncia que le han estafado 60.000 euros (13/04/2021): https://www.elcomercio.es/oviedo/ayuntamiento-oviedo-victima-fraude-ceo-denuncia-estafa-60000-euros-20210413000935-ntvo.html
+            ▶️ El «fraude al CEO» llega a Asturias (12/02/2020): "https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm">https://www.lavozdeasturias.es/noticia/asturias/2020/02/12/fraude-ceo-llega-asturias/00031581512070930292780.htm"
+            ▶️ Estafan a una empresa de Avilés un total de 194.000 euros por el 'timo del CEO' (01/06/2020): https://www.lavanguardia.com/local/asturias/20200601/481547197721/estafan-a-una-empresa-de-aviles-un-total-de-194000-euros-por-el-timo-del-ceo.html
+            ▶️ El Ayuntamiento de Oviedo, víctima del 'fraude del CEO', denuncia que le han estafado 60.000 euros (13/04/2021): https://www.elcomercio.es/oviedo/ayuntamiento-oviedo-victima-fraude-ceo-denuncia-estafa-60000-euros-20210413000935-ntvo.html
       </description>
     </item>
     <item>
@@ -68,10 +69,10 @@
       <itunes:explicit>no</itunes:explicit>
       <description>
       📰 Noticias Relacionadas:
-            * Las peores contraseñas de 2021 en España (31/12/2021): https://derechodelared.com/peores-contrasenas-de-2021/
+            ▶️ Las peores contraseñas de 2021 en España (31/12/2021): https://derechodelared.com/peores-contrasenas-de-2021/
       </description>
     </item>
-        <item>
+    <item>
       <author>José Manuel Redondo</author>
       <itunes:author>José Manuel Redondo</itunes:author>
       <title>[T1.4] 💡 A este estafador no le faltan luces: El timo del corte de la luz</title>
@@ -82,9 +83,41 @@
       <itunes:explicit>no</itunes:explicit>
       <description>
       📰 Noticias Relacionadas:
-            * Detenido un conocido estafador por timar 20.000 euros a hosteleros con facturas de la luz (01/02/2022): https://www.elcomercio.es/gijon/detenido-conocido-estafador-20220201001516-ntvo.html
-            * Estafan 11.000 euros a comercios asturianos a través de falsas deudas de la factura eléctrica (05/05/2022): https://www.elcomercio.es/asturias/estafan-comercios-bares-falsas-deudas-factura-electrica-20220505103310-nt.html
-            * "Te van a cortar la luz en tres horas": vuelve la estafa de la factura eléctrica (13/10/2022): https://www.lne.es/asturias/2022/10/13/cortar-luz-tres-horas-vuelve-77183105.html
+            ▶️ Detenido un conocido estafador por timar 20.000 euros a hosteleros con facturas de la luz (01/02/2022): https://www.elcomercio.es/gijon/detenido-conocido-estafador-20220201001516-ntvo.html
+            ▶️ Estafan 11.000 euros a comercios asturianos a través de falsas deudas de la factura eléctrica (05/05/2022): https://www.elcomercio.es/asturias/estafan-comercios-bares-falsas-deudas-factura-electrica-20220505103310-nt.html
+            ▶️ "Te van a cortar la luz en tres horas": vuelve la estafa de la factura eléctrica (13/10/2022): https://www.lne.es/asturias/2022/10/13/cortar-luz-tres-horas-vuelve-77183105.html
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.5] 📳 Solo te llaman para ayudarse a sí mismos: El timo de Microsoft</title>
+      <pubDate>10/31/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa5.m4a"/>
+      <itunes:duration>4:57</itunes:duration>
+      <guid isPermaLink="false">cepod05</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Protéjase de las estafas del soporte técnico: https://support.microsoft.com/es-es/windows/prot%C3%A9jase-de-las-estafas-del-soporte-t%C3%A9cnico-2ebf91bd-f94c-2a8a-e541-f5c800d18435
+            ▶️ Vuelve la llamada de Microsoft, el fraude telefónico que busca acceder a nuestro ordenador (9/10/2021): https://www.diariosur.es/tecnologia/internet/llamada-microsoft-fraude-20211007134544-nt-20211007182806-nt.html
+            ▶️ Estafa del falso soporte técnico de Microsoft (15/02/2022): https://www.uc3m.es/sdic/articulos/2022/estafa-falso-soporte-tecnico-microsoft
+            ▶️ Atención estafa: esto es lo que tienes que hacer si recibes la llamada del último timo de moda, el de Microsoft (11/09/2022): https://www.lne.es/vida-y-estilo/consumo/2022/09/11/atencion-estafa-tienes-recibes-llamada-59758337.html
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.6] 💀 Muerte por cifrado: La amenaza del ransomware</title>
+      <pubDate>11/07/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa6.m4a"/>
+      <itunes:duration>4:37</itunes:duration>
+      <guid isPermaLink="false">cepod06</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Así fue el ciberataque por «ransomware» que puso en jaque al servicio de salud de Asturias (20/12/2021): https://www.lavozdeasturias.es/noticia/asturias/2021/12/20/ciberataque-ransomware-puso-jaque-servicio-salud-asturias/00031640029682149767428.htm
+            ▶️ El ciberataque desde una dirección rusa obliga al Ayuntamiento de Gijón a revisar todos sus equipos (26/04/2022): https://www.elcomercio.es/gijon/hackers-atacaron-direccion-rusa-ayuntamiento-gijon-20220426004909-ntvo.html
       </description>
     </item>
   </channel>
