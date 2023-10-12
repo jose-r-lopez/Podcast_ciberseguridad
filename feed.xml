@@ -201,7 +201,7 @@
             ▶️ Enlace a Virustotal para búsquedas variadas: https://www.virustotal.com/gui/home/search
       </description>
     </item>
-        <item>
+    <item>
       <author>José Manuel Redondo</author>
       <itunes:author>José Manuel Redondo</itunes:author>
       <title>[T1.12] 😱 ¿Y si ya te han robado una clave y no lo sabes?</title>
@@ -213,6 +213,37 @@
       <description>
       🌍 Enlaces Relacionados:
             ▶️ Enlace a Have I been pwnd?: https://haveibeenpwned.com/
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.13] 📓 Esto que cuentas me preocupa, quiero formarme en el tema, pero no tengo perfil técnico y no se dónde hacerlo...</title>
+      <pubDate>12/28/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa13.m4a"/>
+      <itunes:duration>4:58</itunes:duration>
+      <guid isPermaLink="false">cepod13</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      🌍 Enlaces Relacionados:
+            ▶️ Enlace a la 'línea de ayuda en ciberseguridad' del INCIBE: Contactar por mensajería instantánea, teléfono o formulario para preguntar tus dudas de ciberseguridad: https://www.incibe.es/linea-de-ayuda-en-ciberseguridad
+            ▶️ Enlace a la información disponible en el programa de formación gratuita 'experiencia senior' del INCIBE: https://www.osi.es/es/experiencia-senior
+            ▶️ Acceso directo a la guía de aprendizaje: https://www.osi.es/sites/default/files/docs/senior/guia_ciberseguridad_para_todos.pdf
+            ▶️ Acceso directo a las actividades prácticas (¡pero léete antes la guía!): https://www.osi.es/sites/default/files/docs/senior/osi-experiencia-senior-ejercicios-y-actividades-practicas.pdf
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.14] 💵 Mentiras arriesgadas: El timo del falso ingreso por Bizum</title>
+      <pubDate>01/09/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa14.m4a"/>
+      <itunes:duration>4:39</itunes:duration>
+      <guid isPermaLink="false">cepod14</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      🌍 Enlaces Relacionados:
+            ▶️ El timo del falso pago por Bizum que puede arruinarte la Semana Santa: https://www.lainformacion.com/economia-negocios-y-finanzas/timo-falso-pago-bizum-dinero-semana-santa/2864476/ (12/04/2022)
       </description>
     </item>
   </channel>
