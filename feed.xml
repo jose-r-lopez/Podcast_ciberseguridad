@@ -242,8 +242,37 @@
       <guid isPermaLink="false">cepod14</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-      🌍 Enlaces Relacionados:
+      📰 Noticias Relacionadas:
             ▶️ El timo del falso pago por Bizum que puede arruinarte la Semana Santa: https://www.lainformacion.com/economia-negocios-y-finanzas/timo-falso-pago-bizum-dinero-semana-santa/2864476/ (12/04/2022)
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.15] 👶 Cria cuervos: El timo del "falso hijo"</title>
+      <pubDate>01/16/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa15.m4a"/>
+      <itunes:duration>4:55</itunes:duration>
+      <guid isPermaLink="false">cepod15</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Timos 'Hijo en apuros': la Policía alerta de esta estafa que prolifera en Asturias (25/10/2022): https://www.elcomercio.es/asturias/estafa-asturias-hijo-apuros-20221025115546-nt.html
+            ▶️ La nueva estafa por WhatsApp del falso hijo en apuros: «Mamá, necesito dinero» (05/04/2022): https://www.elcorreo.com/sociedad/nuevo-timo-whastapp-estafa-a-madres-haciendose-pasar-por-hijos-20220404160603-nt.html      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.16] 📬 Piratas del Cartero: Cuando la estafa llega por carta fisica</title>
+      <pubDate>01/23/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa16.m4a"/>
+      <itunes:duration>4:49</itunes:duration>
+      <guid isPermaLink="false">cepod16</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Esta carta con supuesto remite de Granada no es de la Seguridad Social, es un fraude (25/10/2021): https://www.rtve.es/noticias/20211025/bulo-carta-seguridad-social-granada-fraude/2202880.shtml
+            ▶️ La Seguridad Social advierte de la carta que es un fraude para robar tus datos (19/10/2022): https://www.ideal.es/sociedad/nueva-estafa-carta-seguridad-social-fraude-20221019103015-nt.html
       </description>
     </item>
   </channel>
