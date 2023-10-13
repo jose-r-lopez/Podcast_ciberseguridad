@@ -334,5 +334,33 @@
             ▶️ El timo de las reseñas: por qué el disco duro más vendido de Amazon es una estafa (13/02/2023): https://www.lavanguardia.com/tecnologia/20230213/8701636/como-posible-disco-duro-externo-mas-vendido-amazon-sea-estafa.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.21] 🧾 Esa deuda no es mi vieja deuda gris: el timo de la falsa factura del banco</title>
+      <pubDate>02/28/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa21.m4a"/>
+      <itunes:duration>4:54</itunes:duration>
+      <guid isPermaLink="false">cepod21</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ La falsa factura que suplanta a dos conocidos bancos para instalar un virus (15/02/2023): https://www.lasprovincias.es/sociedad/falsa-factura-bancos-20230213160148-nt.html
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.22] ☠️ Este muerto está muy vivo: el timo del contacto con cuenta robada</title>
+      <pubDate>03/06/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa22.m4a"/>
+      <itunes:duration>4:51</itunes:duration>
+      <guid isPermaLink="false">cepod22</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Si un contacto te envía este mensaje por Facebook Messenger, no lo abras (02/04/2022): https://www.20minutos.es/tecnologia/ciberseguridad/si-un-contacto-te-envia-este-mensaje-por-facebook-messenger-no-lo-abras-4978147/
+      </description>
+    </item>
   </channel>
 </rss>
