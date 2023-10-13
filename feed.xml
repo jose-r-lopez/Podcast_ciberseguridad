@@ -275,5 +275,36 @@
             ▶️ La Seguridad Social advierte de la carta que es un fraude para robar tus datos (19/10/2022): https://www.ideal.es/sociedad/nueva-estafa-carta-seguridad-social-fraude-20221019103015-nt.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.17] 👻 Un ejemplo de estafa con "susto": La compra que nunca fue</title>
+      <pubDate>01/30/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa17.m4a"/>
+      <itunes:duration>4:54</itunes:duration>
+      <guid isPermaLink="false">cepod17</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ ¿Has recibido un SMS de un cargo en tu cuenta de Abanca? Cuidado podría ser un smishing (23/01/2023): https://www.osi.es/es/actualidad/avisos/2023/01/has-recibido-un-sms-de-un-cargo-en-tu-cuenta-de-abanca-cuidado-podria-ser
+            ▶️ Alerta si es cliente de Abanca: este SMS puede robar sus claves de seguridad (24/01/2023): https://www.larazon.es/economia/20230124/aynd2swttnhytojs5bttrd4ubm.html      
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.18] 🧐 Buscadores de humo: ¡Cuidado con las búsquedas de Google y similares!</title>
+      <pubDate>02/06/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa18.m4a"/>
+      <itunes:duration>5:01</itunes:duration>
+      <guid isPermaLink="false">cepod18</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Un malware distribuido por Google Ads drena todo el monedero de criptomonedas de un influencer de NFT (16/01/2023): https://es.cointelegraph.com/news/google-ads-delivered-malware-drains-nft-influencer-s-entire-crypto-wallet
+            ▶️ Clonan sitios web de software legítimo y los promocionan mediante Google Ads para desplegar malware (30/12/2022): https://tekiosmag.com/2022/12/30/clonan-sitios-web-de-software-legitimo-y-los-promocionan-mediante-google-ads-para-desplegar-malware/
+            ▶️ No uses Google para buscar software, los hackers cambian los programas por malware (07/02/2023): https://elchapuzasinformatico.com/2023/02/google-pagina-web-malware/
+      </description>
+    </item>
   </channel>
 </rss>
