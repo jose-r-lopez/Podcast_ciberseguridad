@@ -362,5 +362,48 @@
             ▶️ Si un contacto te envía este mensaje por Facebook Messenger, no lo abras (02/04/2022): https://www.20minutos.es/tecnologia/ciberseguridad/si-un-contacto-te-envia-este-mensaje-por-facebook-messenger-no-lo-abras-4978147/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.23] 👮 Juego de Trolas: El 'policía' que te pide pagar una fianza por tu hijo</title>
+      <pubDate>03/13/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa23.m4a"/>
+      <itunes:duration>4:50</itunes:duration>
+      <guid isPermaLink="false">cepod23</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ "Su hijo está en el hospital": la estafa que prolifera en Oviedo (22/02/2023): https://www.lne.es/oviedo/2023/02/22/hijo-hospital-estafa-prolifera-oviedo-83408796.html
+            ▶️ "Nueva estafa en Asturias: llama un supuesto policía y pide dinero para evitar que un familiar vaya a la cárcel (22/02/2023): https://www.elcomercio.es/asturias/alerta-estafa-telefonica-asturias-policia-nacional-llamada-accidente-familiar-carcel-20230222182749-nt.html
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.24] 🤳 Apuesta combinada: SMS + Llamada telefónica sincronizada para vaciarte las cuentas</title>
+      <pubDate>03/20/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa24.m4a"/>
+      <itunes:duration>4:55</itunes:duration>
+      <guid isPermaLink="false">cepod24</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ "Una ciberestafa vacía la cuenta bancaria de dos vecinos de Proaza (06/03/2023): https://lavozdeltrubia.es/2023/03/06/una-ciberestafa-vacia-la-cuenta-bancaria-de-dos-vecinos-de-proaza/
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.25] 🧓 No es país para viejos: el timo de las residencias</title>
+      <pubDate>03/27/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa25.m4a"/>
+      <itunes:duration>4:20</itunes:duration>
+      <guid isPermaLink="false">cepod25</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Alerta en las residencias asturianas por varios intentos de estafa (07/02/2023): https://www.elcomercio.es/asturias/alertan-estafa-residencias-mayores-asturias-20230207172020-nt.html
+      </description>
+    </item>
   </channel>
 </rss>
