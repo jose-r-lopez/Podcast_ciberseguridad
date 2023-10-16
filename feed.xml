@@ -462,5 +462,33 @@
             ▶️ Una campaña de 'phishing' anima a los usuarios a completar formularios con sus datos para conseguir cerveza gratis (15/03/2023): https://www.europapress.es/portaltic/ciberseguridad/noticia-campana-phishing-anima-usuarios-completar-formularios-datos-conseguir-cerveza-gratis-20230315160539.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.30] 🐴 El troyano suscriptor que a tu cartera causa dolor</title>
+      <pubDate>05/15/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa30.m4a"/>
+      <itunes:duration>4:36</itunes:duration>
+      <guid isPermaLink="false">cepod30</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Harly: otro troyano suscriptor en Google Play (28/09/2022): https://www.kaspersky.es/blog/harly-trojan-subscriber/27704/
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.31] 📎 El algodón no engaña, pero la notificación web sí</title>
+      <pubDate>05/22/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa31.m4a"/>
+      <itunes:duration>4:39</itunes:duration>
+      <guid isPermaLink="false">cepod31</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      🌍 Enlaces Relacionados:
+            ▶️ Así puedes eliminar los mensajes de virus de Chrome (10/05/2023): https://www.softzone.es/programas-top/chrome/quitar-mensajes-virus-chrome/
+      </description>
+    </item>
   </channel>
 </rss>
