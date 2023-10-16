@@ -405,5 +405,34 @@
             ▶️ Alerta en las residencias asturianas por varios intentos de estafa (07/02/2023): https://www.elcomercio.es/asturias/alertan-estafa-residencias-mayores-asturias-20230207172020-nt.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.26] 🤖 Timos de nueva generación: el problema de las IAs</title>
+      <pubDate>04/10/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa26.m4a"/>
+      <itunes:duration>4:36</itunes:duration>
+      <guid isPermaLink="false">cepod26</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Alertan del aumento de estafas a personas mediante una IA que imita voces de allegados (10/03/2023): https://www.20minutos.es/tecnologia/aumentan-las-estafas-a-personas-mayores-mediante-una-inteligencia-artificial-que-imita-las-voces-de-sus-allegados-5108773/
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.27] 💰 Hacienda no son todos: Timos con la campaña de la renta</title>
+      <pubDate>04/17/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa27.m4a"/>
+      <itunes:duration>4:29</itunes:duration>
+      <guid isPermaLink="false">cepod27</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Cuidado con los bulos y ‘phishing’ que vuelven con el inicio de la campaña de la Renta 2022 (10/04/2023): https://www.newtral.es/bulos-phishing-declaracion-renta/20230410/
+            ▶️ Información de casos de Phishing: https://sede.agenciatributaria.gob.es/Sede/Phishing.shtml
+      </description>
+    </item>
   </channel>
 </rss>
