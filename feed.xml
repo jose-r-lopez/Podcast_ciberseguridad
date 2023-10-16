@@ -434,5 +434,33 @@
             ▶️ Información de casos de Phishing: https://sede.agenciatributaria.gob.es/Sede/Phishing.shtml
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.28] 💼 Cuando el grajo vuela bajo no te fíes de un trabajo: Timos con falsos empleos por LinkedIn</title>
+      <pubDate>05/02/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa28.m4a"/>
+      <itunes:duration>4:39</itunes:duration>
+      <guid isPermaLink="false">cepod28</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Las 'vault apps', la última moda entre niños y adolescentes para eludir controles parentales (01/04/2023): https://www.europapress.es/portaltic/ciberseguridad/noticia-vault-apps-ultima-moda-ninos-adolescentes-eludir-controles-parentales-20230401095949.html
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.29] 👿 El secreto no está en la masa: aplicaciones de móvil para ocultar secretos</title>
+      <pubDate>05/08/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa29.m4a"/>
+      <itunes:duration>4:35</itunes:duration>
+      <guid isPermaLink="false">cepod29</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ Una campaña de 'phishing' anima a los usuarios a completar formularios con sus datos para conseguir cerveza gratis (15/03/2023): https://www.europapress.es/portaltic/ciberseguridad/noticia-campana-phishing-anima-usuarios-completar-formularios-datos-conseguir-cerveza-gratis-20230315160539.html
+      </description>
+    </item>
   </channel>
 </rss>
