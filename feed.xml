@@ -490,5 +490,33 @@
             ▶️ Así puedes eliminar los mensajes de virus de Chrome (10/05/2023): https://www.softzone.es/programas-top/chrome/quitar-mensajes-virus-chrome/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.32] 🎃 Mentiras arriesgadas: gato por liebre en la segunda mano</title>
+      <pubDate>05/29/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa32.m4a"/>
+      <itunes:duration>4:37</itunes:duration>
+      <guid isPermaLink="false">cepod32</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      🌍 Enlaces Relacionados:
+            ▶️ Todos los tipos de estafas que te encuentras en Wallapop y otros sitios de compraventa entre particulares (8/4/2022): https://www.xataka.com/servicios/todos-tipos-estafas-que-te-encuentras-wallapop-otros-sitios-compraventa-particulares
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.33] 🐍 Es peligroso andar ahí fuera, escucha esto</title>
+      <pubDate>06/05/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa33.m4a"/>
+      <itunes:duration>4:40</itunes:duration>
+      <guid isPermaLink="false">cepod33</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      🌍 Enlaces Relacionados:
+            ▶️ El 14% de los menores envían fotos sexuales a un adulto tras ser seducidos por internet, advierte un estudio (14/11/2022): https://www.lne.es/sociedad/2022/11/14/14-menores-envias-fotos-sexuales-78522384.html
+      </description>
+    </item>
   </channel>
 </rss>
