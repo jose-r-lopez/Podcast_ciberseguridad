@@ -132,8 +132,7 @@
       <description>
       📰 Noticias Relacionadas:
             ▶️ Banco de España alerta de un fraude que suplanta la identidad de bancos a través de SMS y llamadas (11/01/2022): https://www.europapress.es/economia/finanzas-00340/noticia-banco-espana-alerta-fraude-suplanta-identidad-bancos-traves-sms-llamadas-20220111193328.html
-            ▶️ Suplantación de SMS y del identificador de llamadas (11/01/2022): https://clientebancario.bde.es/pcb/es/blog/suplantacion-de-sms-y-del-identificador-de-llamadas.html
-            ▶️ Esto es el 'call spoofing', la nueva estafa que afecta a clientes del Banco Unicaja (03/11/2022): https://www-mundodeportivo-com.cdn.ampproject.org/c/s/www.mundodeportivo.com/actualidad/20221103/1001890393/esto-call-spoofing-nueva-estafa-afecta-clientes-banco-unicaja-act-pau.html?facet=amp      
+            ▶️ Suplantación de SMS y del identificador de llamadas (11/01/2022): https://clientebancario.bde.es/pcb/es/blog/suplantacion-de-sms-y-del-identificador-de-llamadas.html      
       </description>
     </item>
     <item>
@@ -514,8 +513,36 @@
       <guid isPermaLink="false">cepod33</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-      🌍 Enlaces Relacionados:
+      📰 Noticias Relacionadas:
             ▶️ El 14% de los menores envían fotos sexuales a un adulto tras ser seducidos por internet, advierte un estudio (14/11/2022): https://www.lne.es/sociedad/2022/11/14/14-menores-envias-fotos-sexuales-78522384.html
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.34] 🧰 Vendedores de humo digitales con Inteligencia Artificial</title>
+      <pubDate>06/12/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa34.m4a"/>
+      <itunes:duration>4:43</itunes:duration>
+      <guid isPermaLink="false">cepod34</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      📰 Noticias Relacionadas:
+            ▶️ No, no te vas a convertir en millonario en un día con ChatGPT (03/06/2023): https://elpais.com/tecnologia/2023-06-03/no-no-te-vas-a-convertir-en-millonario-en-un-dia-con-chatgpt.html
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.35] 😵‍💫 ¡Que no te den el Paypalo!</title>
+      <pubDate>06/19/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa35.m4a"/>
+      <itunes:duration>4:36</itunes:duration>
+      <guid isPermaLink="false">cepod35</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      🌍 Enlaces Relacionados:
+            ▶️ Estafan a una persona tras realizar una compra online pagando con PayPal donaciones (06/06/2023): https://www.incibe.es/linea-de-ayuda-en-ciberseguridad/casos-reales/estafan-una-persona-tras-realizar-una-compra-online-pagando-con-paypal-donaciones
       </description>
     </item>
   </channel>
