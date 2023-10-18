@@ -545,5 +545,19 @@
             ▶️ Estafan a una persona tras realizar una compra online pagando con PayPal donaciones (06/06/2023): https://www.incibe.es/linea-de-ayuda-en-ciberseguridad/casos-reales/estafan-una-persona-tras-realizar-una-compra-online-pagando-con-paypal-donaciones
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.36] 😭 Las desgracias nunca vienen solas: El timo de la compensación económica</title>
+      <pubDate>06/26/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa36.m4a"/>
+      <itunes:duration>4:35</itunes:duration>
+      <guid isPermaLink="false">cepod36</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      🌍 Enlaces Relacionados:
+            ▶️ La Policía alerta de una nueva estafa del timo por compensación económica de la Unión Europea (02/05/2023): https://www.europapress.es/eseuropa/noticia-policia-alerta-nueva-estafa-timo-compensacion-economica-union-europea-20230502094351.html
+      </description>
+    </item>
   </channel>
 </rss>
