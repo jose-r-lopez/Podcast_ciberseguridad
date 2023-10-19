@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Hablemos de ciberseguridad para todos con J. Redondo</title>
+    <googleplay:author>José Manuel Redondo</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Onda Cero Oviedo, Universidad de Oviedo</rawvoice:location>
+    <rawvoice:frequency>Semanal</rawvoice:frequency>
+    <author>José Manuel Redondo López</author>
+    <itunes:author>José Manuel Redondo López</itunes:author>
+    <itunes:category text="Ciberseguridad" />
+    <image>
+      <url>https://jose-r-lopez.github.io/Podcast_ciberseguridad/cobrakali.png</url>
+      <title>Cobra Kali</title>
+    </image>
+    <itunes:owner>
+      <itunes:name>José Manuel Redondo López</itunes:name>
+      <itunes:email>redondojose@uniovi.es</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>Ciberseguridad, fraudes, prevención, concienciación</itunes:keywords>
+    <copyright>José Manuel Redondo López</copyright>
+    <description>Mi sección de radio de Onda Cero Oviedo ("Más de uno", https://www.ondacero.es/temas/oviedo-1) hecha podcast. 
+      ¡Hablemos y prevengamos ataques de ciberseguridad y fraudes con audios de menos de 5 minutos!. 
+      Un podcast pensado para todo el mundo, ¡aunque no tenga conocimientos técnicos! 
+    </description>
+    <googleplay:image href="https://jose-r-lopez.github.io/Podcast_ciberseguridad/cobrakali.png" />
+    <language>es-es</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Tue, 10 Oct 2023 13:00:00 PDT</pubDate>
+    <link>https://jose-r-lopez.github.io/Podcast_ciberseguridad/feed.xml</link>
+    <itunes:image href="https://jose-r-lopez.github.io/Podcast_ciberseguridad/cobrakali.png" />
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.1] 🏁 ¿Que hace un académico como tú en un sitio como este?: Presentación y consejos generales</title>
+      <pubDate>10/03/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa1.m4a"/>
+      <itunes:duration>4:45</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      Estreno de mi sección en Onda Cero
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T1.2] 🥷 Esto es más falso que algunos perfiles de LinkedIn: Fraudes del CEO</title>
+      <pubDate>10/11/2022</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t1/Programa2.m4a"/>
+      <itunes:duration>4:47</itunes:duration>
+      <guid isPermaLink="false">cepod02</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+	Hablando del fraude del CEO y de sus peligros
+      </description>
+    </item>
+  </channel>
+</rss>
