@@ -586,5 +586,31 @@
          Presentación de la Temporada 2 del programa en Onda Cero Oviedo y una reflexión acerca de lo que tenemos que hacer en cuanto a prevención de fraudes.
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.2] 💱 No es tu banco el que te llama, es el poder del timo</title>
+      <pubDate>09/25/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa2.m4a"/>
+      <itunes:duration>4:48</itunes:duration>
+      <guid isPermaLink="false">cepod39</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+         La Policía avisa: aunque lo diga tu móvil, tu banco no te está llamando (27/09/2023): https://www.elperiodico.com/es/sucesos/20230927/estafa-telefono-llamada-banco-spoofing-79936886
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.3] 🕶️ Eso es mentira, y archivos de video: Los deepfakes al servicio del delincuente</title>
+      <pubDate>10/02/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa3.m4a"/>
+      <itunes:duration>4:59</itunes:duration>
+      <guid isPermaLink="false">cepod40</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+         Inteligencia artificial al servicio del engaño: deepfakes y vishing (28/09/2023): https://isbel.com/ia-en-deepfakes-y-vishing/
+      </description>
+    </item>
   </channel>
 </rss>
