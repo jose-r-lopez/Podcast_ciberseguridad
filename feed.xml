@@ -612,5 +612,31 @@
          Inteligencia artificial al servicio del engaño: deepfakes y vishing (28/09/2023): https://isbel.com/ia-en-deepfakes-y-vishing/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.4] 🙊 Ese que te llama no trabaja contigo: Los fraudes vía Teams y otras plataformas profesionales</title>
+      <pubDate>10/09/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa4.m4a"/>
+      <itunes:duration>4:51</itunes:duration>
+      <guid isPermaLink="false">cepod41</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+         Cuidado con lo que recibes en Microsoft Teams: un malware se está difundiendo en la plataforma (22/02/2022): https://www.20minutos.es/tecnologia/ciberseguridad/cuidado-con-lo-que-recibes-en-microsoft-teams-un-malware-se-esta-difundiendo-en-la-plataforma-4960728/
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.5] 🚨 No habrá paz para los malvados: Formas de denunciar intentos de fraude</title>
+      <pubDate>10/16/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa5.m4a"/>
+      <itunes:duration>4:49</itunes:duration>
+      <guid isPermaLink="false">cepod42</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+         Denunciar una página de phishing en Google: https://safebrowsing.google.com/safebrowsing/report_phish/?hl=es
+      </description>
+    </item>
   </channel>
 </rss>
