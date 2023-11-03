@@ -638,5 +638,31 @@
          Denunciar una página de phishing en Google: https://safebrowsing.google.com/safebrowsing/report_phish/?hl=es
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.6] 🤹 Gato por liebre: El timo de las reseñas falsas</title>
+      <pubDate>10/23/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa6.m4a"/>
+      <itunes:duration>4:52</itunes:duration>
+      <guid isPermaLink="false">cepod43</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+         Las reseñas online falsas pueden hundir negocios. Así puedes lidiar con ellas si te han afectado (11/06/2023): https://www.genbeta.com/seguridad/resenas-online-falsas-pueden-hundir-negocios-asi-puedes-lidiar-ellas-te-han-afectado
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.7] 🫵 El oráculo artificial: Como una IA puede ayudarte a descubrir un fraude</title>
+      <pubDate>10/30/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa7.m4a"/>
+      <itunes:duration>4:55</itunes:duration>
+      <guid isPermaLink="false">cepod44</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+         Acceso a la IA Bing Chat de Microsoft (Hazlo desde un navegador Edge y pulsa "Chatear con el nuevo Bing"): https://www.bing.com/search
+      </description>
+    </item>
   </channel>
 </rss>
