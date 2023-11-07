@@ -664,5 +664,18 @@
          Acceso a la IA Bing Chat de Microsoft (Hazlo desde un navegador Edge y pulsa "Chatear con el nuevo Bing"): https://www.bing.com/search
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.8] ❣️ Me temo que a esa chica no le gustas: El timo del "Me gusta" en redes sociales</title>
+      <pubDate>11/06/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa8.m4a"/>
+      <itunes:duration>4:57</itunes:duration>
+      <guid isPermaLink="false">cepod45</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+        Hilo en Twitter del investigador Marcelino Madrigal acerca de este tipo de cuentas: https://twitter.com/SoyMmadrigal/status/1450844594602717184
+      </description>
+    </item>
   </channel>
 </rss>
