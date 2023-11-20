@@ -690,5 +690,18 @@
         Antonio Resines y Martiño Rivas se convierten en la imagen de un nuevo fraude viral (6/11/2023): https://www.lavanguardia.com/gente/20231106/9357605/antonio-resines-martino-rivas-convierten-imagen-nuevo-fraude-viral-pmv.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.10] 🪝 Tiendas ArtIAficiales: Que no te den el Black Friday</title>
+      <pubDate>11/20/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa10.m4a"/>
+      <itunes:duration>4:55</itunes:duration>
+      <guid isPermaLink="false">cepod47</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+        Se acerca el 'Black Friday', pero mucho ojo: Alertan de una nueva estafa de 'phising' creada con inteligencia artificial (19/11/2023): https://www.antena3.com/noticias/sociedad/acerca-black-friday-pero-mucho-ojo-alertan-nueva-estafa-phising-creada-inteligencia-artificial_20231110654e149b32499c0001132487.html
+      </description>
+    </item>
   </channel>
 </rss>
