@@ -703,5 +703,18 @@
         Se acerca el 'Black Friday', pero mucho ojo: Alertan de una nueva estafa de 'phising' creada con inteligencia artificial (19/11/2023): https://www.antena3.com/noticias/sociedad/acerca-black-friday-pero-mucho-ojo-alertan-nueva-estafa-phising-creada-inteligencia-artificial_20231110654e149b32499c0001132487.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.11] ◽️◾️ La QRuosidad mató al gato: ¡Un QR salvaje apareció y es superefectivo!</title>
+      <pubDate>11/27/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa11.m4a"/>
+      <itunes:duration>5:03</itunes:duration>
+      <guid isPermaLink="false">cepod48</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+        QRishing: cuando el QR esconde una estafa (08/03/2023): https://www.ocu.org/tecnologia/antivirus/noticias/qrishing
+      </description>
+    </item>
   </channel>
 </rss>
