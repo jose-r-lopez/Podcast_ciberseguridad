@@ -716,5 +716,18 @@
         QRishing: cuando el QR esconde una estafa (08/03/2023): https://www.ocu.org/tecnologia/antivirus/noticias/qrishing
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.12] 💳🎁 Uso de tarjetas regalo para que te den el palo</title>
+      <pubDate>12/04/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa12.m4a"/>
+      <itunes:duration>4:59</itunes:duration>
+      <guid isPermaLink="false">cepod49</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+        Alertan del timo de las tarjetas regalo: así funciona la estafa (26/10/2022): https://www.elperiodicomediterraneo.com/sociedad/2022/10/26/timo-tarjetas-regalo-como-funciona-estafa-tarjeta-robo-que-hacer-dv-77745468.html
+      </description>
+    </item>
   </channel>
 </rss>
