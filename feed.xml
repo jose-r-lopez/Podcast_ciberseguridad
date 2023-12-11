@@ -729,5 +729,18 @@
         Alertan del timo de las tarjetas regalo: así funciona la estafa (26/10/2022): https://www.elperiodicomediterraneo.com/sociedad/2022/10/26/timo-tarjetas-regalo-como-funciona-estafa-tarjeta-robo-que-hacer-dv-77745468.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.13] 🙈 Si te pide el DNI...no es ahí</title>
+      <pubDate>12/11/2023</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa13.m4a"/>
+      <itunes:duration>5:01</itunes:duration>
+      <guid isPermaLink="false">cepod50</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+        Tras ser suplantado con su DNI acaba debiendo impuestos a la Agencia Tributaria (22/11/2023): https://www.incibe.es/linea-de-ayuda-en-ciberseguridad/casos-reales/tras-ser-suplantado-con-su-dni-acaba-debiendo-impuestos-la-agencia-tributaria
+      </description>
+    </item>
   </channel>
 </rss>
