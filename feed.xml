@@ -755,5 +755,19 @@
         ▶️ El fraude del “sí” al contestar al teléfono (06/09/2023): https://www.incibe.es/ciudadania/blog/el-fraude-del-si-al-contestar-al-telefono
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.15] 🔴 La caza del botón rojo</title>
+      <pubDate>02/01/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa15.m4a"/>
+      <itunes:duration>4:52</itunes:duration>
+      <guid isPermaLink="false">cepod52</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+        ▶️ La estafa del botón rojo del 112: La Policía Nacional avisa por lo fácil que es caer si te llaman (01/12/2023): https://www.cope.es/actualidad/vivir/noticias/estafa-del-boton-rojo-del-112-policia-nacional-avisa-por-facil-que-caer-llaman-20231201_3030506
+        ▶️ Advertencia de la Policía: cuidado con el timo del ‘botón rojo’ (02/01/2024): https://as.com/actualidad/sociedad/advertencia-de-la-policia-cuidado-con-el-timo-del-boton-rojo-n/
+      </description>
+    </item>
   </channel>
 </rss>
