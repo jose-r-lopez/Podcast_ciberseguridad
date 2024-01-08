@@ -769,5 +769,19 @@
         ▶️ Advertencia de la Policía: cuidado con el timo del ‘botón rojo’ (02/01/2024): https://as.com/actualidad/sociedad/advertencia-de-la-policia-cuidado-con-el-timo-del-boton-rojo-n/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.16] 👦👧 Extorsión sembrando culpa o pánico a perder reputación: El timo de el/la menor de edad</title>
+      <pubDate>08/01/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa16.m4a"/>
+      <itunes:duration>5:09</itunes:duration>
+      <guid isPermaLink="false">cepod53</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+        ▶️ Nuevo tipo de “Sextorsion” circula vía WhatsApp (29/04/2019): https://www.pdichile.cl/centro-de-prensa/detalle-prensa/2019/04/29/nuevo-tipo-de-sextorsion-circula-v%C3%ADa-whatsapp
+        ▶️ Extorsionado por un supuesto proxeneta en WhatsApp tras visitar una web de encuentros sexuales (19/09/2023): https://www.incibe.es/linea-de-ayuda-en-ciberseguridad/casos-reales/extorsionado-por-un-supuesto-proxeneta-en-whatsapp-tras-visitar-una-web-de-encuentros
+      </description>
+    </item>
   </channel>
 </rss>
