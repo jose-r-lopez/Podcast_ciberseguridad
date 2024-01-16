@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Hablemos de ciberseguridad para todos con J. Redondo</title>
+    <title>Hablemos de ciberseguridad para todos con Jose M. Redondo</title>
     <googleplay:author>José Manuel Redondo</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>Onda Cero Oviedo, Universidad de Oviedo</rawvoice:location>
@@ -19,9 +19,7 @@
     </itunes:owner>
     <itunes:keywords>Ciberseguridad, fraudes, prevención, concienciación</itunes:keywords>
     <copyright>José Manuel Redondo López</copyright>
-    <description>Mi sección de radio de Onda Cero Oviedo ("Más de uno", https://www.ondacero.es/temas/oviedo-1) hecha podcast. 
-      ¡Hablemos y prevengamos ataques de ciberseguridad y fraudes con audios de menos de 5 minutos!. 
-      Un podcast pensado para todo el mundo, ¡aunque no tenga conocimientos técnicos! 
+    <description>Mi sección de radio de Onda Cero Oviedo ("Más de uno", https://www.ondacero.es/temas/oviedo-1) en podcast. ¡Prevengamos ataques y fraudes con audios de menos de 5 minutos!. Pensado para todo el mundo, ¡aunque no tenga conocimientos técnicos!. ¿Quieres saber más? ¡Mira mi canal de YouTube!: https://www.youtube.com/channel/UCrB3D_97pYWlfBZBmCJiYzw 
     </description>
     <googleplay:image href="https://jose-r-lopez.github.io/Podcast_ciberseguridad/cobrakali.png" />
     <language>es-es</language>
