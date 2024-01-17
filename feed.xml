@@ -63,9 +63,9 @@
       <itunes:duration>4:56</itunes:duration>
       <guid isPermaLink="false">cepod03</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT1E3.jpg"/>
       <description>
-      📰 Noticias Relacionadas:
-            ▶️ Las peores contraseñas de 2021 en España (31/12/2021): https://derechodelared.com/peores-contrasenas-de-2021/
+        ¿Quieres saber más? Lee: https://github.com/jose-r-lopez/Fraudes-y-Timos/blob/main/Case%20Files/T1E3.%20Crear%20una%20clave%20segura%20hace%20la%20vida%20del%20delincuente%20m%C3%A1s%20dura.pdf?raw=true
       </description>
     </item>
     <item>
@@ -77,11 +77,9 @@
       <itunes:duration>4:47</itunes:duration>
       <guid isPermaLink="false">cepod04</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT1E4.jpg"/>
       <description>
-      📰 Noticias Relacionadas:
-            ▶️ Detenido un conocido estafador por timar 20.000 euros a hosteleros con facturas de la luz (01/02/2022): https://www.elcomercio.es/gijon/detenido-conocido-estafador-20220201001516-ntvo.html
-            ▶️ Estafan 11.000 euros a comercios asturianos a través de falsas deudas de la factura eléctrica (05/05/2022): https://www.elcomercio.es/asturias/estafan-comercios-bares-falsas-deudas-factura-electrica-20220505103310-nt.html
-            ▶️ "Te van a cortar la luz en tres horas": vuelve la estafa de la factura eléctrica (13/10/2022): https://www.lne.es/asturias/2022/10/13/cortar-luz-tres-horas-vuelve-77183105.html
+        ¿Quieres saber más? Lee: https://github.com/jose-r-lopez/Fraudes-y-Timos/blob/main/Case%20Files/T1E4.%20A%20este%20delincuente%20no%20le%20faltan%20luces.pdf?raw=true
       </description>
     </item>
     <item>
@@ -93,12 +91,9 @@
       <itunes:duration>4:57</itunes:duration>
       <guid isPermaLink="false">cepod05</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT1E5.jpg"/>
       <description>
-      📰 Noticias Relacionadas:
-            ▶️ Protéjase de las estafas del soporte técnico: https://support.microsoft.com/es-es/windows/prot%C3%A9jase-de-las-estafas-del-soporte-t%C3%A9cnico-2ebf91bd-f94c-2a8a-e541-f5c800d18435
-            ▶️ Vuelve la llamada de Microsoft, el fraude telefónico que busca acceder a nuestro ordenador (9/10/2021): https://www.diariosur.es/tecnologia/internet/llamada-microsoft-fraude-20211007134544-nt-20211007182806-nt.html
-            ▶️ Estafa del falso soporte técnico de Microsoft (15/02/2022): https://www.uc3m.es/sdic/articulos/2022/estafa-falso-soporte-tecnico-microsoft
-            ▶️ Atención estafa: esto es lo que tienes que hacer si recibes la llamada del último timo de moda, el de Microsoft (11/09/2022): https://www.lne.es/vida-y-estilo/consumo/2022/09/11/atencion-estafa-tienes-recibes-llamada-59758337.html
+        ¿Quieres saber más? Lee: https://github.com/jose-r-lopez/Fraudes-y-Timos/blob/main/Case%20Files/T1E5.%20No%2C%20te%20prometo%20que%20no%20es%20Microsoft.pdf?raw=true
       </description>
     </item>
     <item>
@@ -110,13 +105,12 @@
       <itunes:duration>4:37</itunes:duration>
       <guid isPermaLink="false">cepod06</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT1E6.jpg"/>
       <description>
-      📰 Noticias Relacionadas:
-            ▶️ Así fue el ciberataque por «ransomware» que puso en jaque al servicio de salud de Asturias (20/12/2021): https://www.lavozdeasturias.es/noticia/asturias/2021/12/20/ciberataque-ransomware-puso-jaque-servicio-salud-asturias/00031640029682149767428.htm
-            ▶️ El ciberataque desde una dirección rusa obliga al Ayuntamiento de Gijón a revisar todos sus equipos (26/04/2022): https://www.elcomercio.es/gijon/hackers-atacaron-direccion-rusa-ayuntamiento-gijon-20220426004909-ntvo.html
+       ¿Quieres saber más? Lee: https://github.com/jose-r-lopez/Fraudes-y-Timos/blob/main/Case%20Files/T1E6.%20El%20secuestro%20de%20los%20ficheros.pdf?raw=true
       </description>
     </item>
-        <item>
+    <item>
       <author>José Manuel Redondo</author>
       <itunes:author>José Manuel Redondo</itunes:author>
       <title>[T1.7] 🥸 Identifícame si puedes: La falsificación del número que te llama o Caller ID Spoofing</title>
@@ -125,10 +119,9 @@
       <itunes:duration>4:56</itunes:duration>
       <guid isPermaLink="false">cepod07</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT1E7.jpg"/>
       <description>
-      📰 Noticias Relacionadas:
-            ▶️ Banco de España alerta de un fraude que suplanta la identidad de bancos a través de SMS y llamadas (11/01/2022): https://www.europapress.es/economia/finanzas-00340/noticia-banco-espana-alerta-fraude-suplanta-identidad-bancos-traves-sms-llamadas-20220111193328.html
-            ▶️ Suplantación de SMS y del identificador de llamadas (11/01/2022): https://clientebancario.bde.es/pcb/es/blog/suplantacion-de-sms-y-del-identificador-de-llamadas.html      
+        ¿Quieres saber más? Lee: https://github.com/jose-r-lopez/Fraudes-y-Timos/blob/main/Case%20Files/T1E7.%20Este%20tel%C3%A9fono%20no%20es%20el%20de%20Lady%20Gaga.pdf?raw=true
       </description>
     </item>
     <item>
@@ -140,11 +133,9 @@
       <itunes:duration>4:53</itunes:duration>
       <guid isPermaLink="false">cepod08</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT1E8.jpg"/>
       <description>
-      📰 Noticias Relacionadas:
-            ▶️ Historia real: cómo pagué una factura a un ciberdelincuente que entró en mi cuenta de correo (24/05/2022) por Elisa Vivancos (INCIBE): https://www.incibe.es/protege-tu-empresa/blog/historia-real-pague-factura-ciberdelincuente-entro-mi-cuenta-correo
-            ▶️ Cómo protegerte de la estafa del pago de las facturas (05/07/2022): https://clientebancario.bde.es/pcb/es/blog/cuidado-con-las-estafas-a-la-hora-de-pagar-una-factura.html
-            ▶️ La estafa de las facturas crece en España: qué hacer si caes en la trampa (07/07/2022): https://www.lavanguardia.com/economia/bolsillo/20220707/8389472/estafa-factura-correo-empresa-proveedor-solucionar.html
+       ¿Quieres saber más? Lee: https://github.com/jose-r-lopez/Fraudes-y-Timos/blob/main/Case%20Files/T1E8.%20La%20factura%20basura.%20El%20BEC.pdf?raw=true
       </description>
     </item>
     <item>
@@ -156,12 +147,9 @@
       <itunes:duration>4:59</itunes:duration>
       <guid isPermaLink="false">cepod09</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT1E9.jpg"/>
       <description>
-      📰 Noticias Relacionadas:
-            ▶️ Cientos de reclamaciones por la «estafa» de los seguros Celside que ofrecen Fnac y Xiaomi (19/02/2022): https://theobjective.com/sociedad/2022-02-19/denuncias-estafa-celside-fnac-xiaomi/
-            ▶️ Hubside, el ‘regalo envenenado’ que te cuela Fnac con un seguro para móviles (02/12/2021): https://hipertextual.com/2021/12/hubside-estafa-seguro-para-moviles-fnac
-            ▶️ Programme Cyrana en Trustpilot: https://es.trustpilot.com/review/programme-cyrana.fr
-            ▶️ Cyrana (empresa verificada) en TrustPilot: https://es.trustpilot.com/review/cyrana.com      
+        ¿Quieres saber más? Lee: https://github.com/jose-r-lopez/Fraudes-y-Timos/blob/main/Case%20Files/T1E9.%20Los%20contratos%20pegajosos.pdf?raw=true   
       </description>
     </item>
     <item>
@@ -173,14 +161,12 @@
       <itunes:duration>4:43</itunes:duration>
       <guid isPermaLink="false">cepod10</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT1E10.jpg"/>
       <description>
-      📰 Noticias Relacionadas:
-            ▶️ Timo de la doble llamada o vishing: qué es, cómo funciona y cómo identificarlo y evitarlo (29/09/2022): https://www.xataka.com/basics/timo-doble-llamada-que-como-funciona-como-identificarlo-evitarlo
-            ▶️ Qué es el timo de la doble llamada y cómo puedes detectarlo (29/09/2022): https://www.xatakamovil.com/tutoriales/que-timo-doble-llamada-como-puedes-detectarlo
-            ▶️ El "timo" de la doble llamada sigue vigente: https://www.ocu.org/tecnologia/internet-telefonia/noticias/timo-doble-llamada
+       ¿Quieres saber más? Lee: https://github.com/jose-r-lopez/Fraudes-y-Timos/blob/main/Case%20Files/T1E10.%20El%20timo%20de%20la%20doble%20llamada.pdf?raw=true
       </description>
     </item>
-        <item>
+    <item>
       <author>José Manuel Redondo</author>
       <itunes:author>José Manuel Redondo</itunes:author>
       <title>[T1.11] 💉 ¿Quieres un antivirus gratis? Yo te daré decenas de ellos :)</title>
