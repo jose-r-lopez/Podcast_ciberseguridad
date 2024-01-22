@@ -779,5 +779,19 @@
         ▶️ Mirillas digitales: cómo cumplir con la normativa de protección de datos (12/09/2023): https://cuadernosdeseguridad.com/2023/09/mirillas-digitales/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.18] ⛺️ Este timo no es gran reserva: Cuidado en las plataformas de reserva de alojamientos </title>
+      <pubDate>22/01/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa18.m4a"/>
+      <itunes:duration>4:57</itunes:duration>
+      <guid isPermaLink="false">cepod55</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+        ▶️ Nueva y peligrosa estafa dentro de Booking: "Nos robaron más de 400 euros": https://www.elperiodico.com/es/economia/20231022/booking-estafa-aplicacion-chat-que-hacer-dv-93384452
+        ▶️ Cuidado con esta nueva estafa en la app de Booking: te roban los datos bancarios desde el propio chat de la aplicación: https://www.20minutos.es/tecnologia/ciberseguridad/nueva-estafa-booking-chat-aplicacion-5182096/
+      </description>
+    </item>
   </channel>
 </rss>
