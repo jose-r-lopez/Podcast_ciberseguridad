@@ -805,5 +805,20 @@
         ▶️ Cuidado con esta nueva estafa en la app de Booking: te roban los datos bancarios desde el propio chat de la aplicación: https://www.20minutos.es/tecnologia/ciberseguridad/nueva-estafa-booking-chat-aplicacion-5182096/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.19] 👍 Cómo conocí a vuestro fraude: Respondiendo bien a mensajes sospechosos </title>
+      <pubDate>29/01/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa19.m4a"/>
+      <itunes:duration>4:57</itunes:duration>
+      <guid isPermaLink="false">cepod56</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E19.jpg"/>
+      <description>
+        ▶️ Reporte de fraude (INCIBE): https://www.incibe.es/ciudadania/ayuda/reporte-de-fraude
+        ▶️ Guía de ciberseguridad. La ciberseguridad al alcance de todos (INCIBE): https://www.incibe.es/sites/default/files/docs/senior/guia_ciberseguridad_para_todos.pdf
+      </description>
+    </item>
   </channel>
 </rss>
