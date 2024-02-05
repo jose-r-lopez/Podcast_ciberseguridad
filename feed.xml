@@ -852,5 +852,22 @@
         ▶️ Guía de ciberseguridad. La ciberseguridad al alcance de todos (INCIBE): https://www.incibe.es/sites/default/files/docs/senior/guia_ciberseguridad_para_todos.pdf
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.20] 👹 Peligros en Roblox: No hay palabra élfica, ni de Mordor ni humana que pueda describir este horror </title>
+      <pubDate>05/02/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa20.m4a"/>
+      <itunes:duration>5:01</itunes:duration>
+      <guid isPermaLink="false">cepod57</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E20.jpg"/>
+      <description>
+        ▶️ Roblox: Denuncian acosos a menores en el popular juego (7/10/2020): https://vandal.elespanol.com/noticia/1350738601/roblox-denuncian-acosos-a-menores-en-el-popular-juego/
+        ▶️ Guía para padres: cómo proteger a los hijos en Roblox (26/06/2023): https://www.infobae.com/tecno/2023/06/27/guia-para-padres-como-proteger-a-los-hijos-en-roblox/
+        ▶️ Ciberacoso sexual: "Pensaba que mi hijo jugaba a un videojuego inocente pero le enviaban imágenes pornográficas" (30/5/2019): https://www.bbc.com/mundo/noticias-48464190 
+        ▶️ Un pederasta secuestra y viola a una niña de 13 años a la que contactó por Roblox (7/3/2022): https://www.lavanguardia.com/tecnologia/20220307/8105465/nina-13-anos-secuestrada-violada-hombre-conocio-roblox-pmv.html
+      </description>
+    </item>
   </channel>
 </rss>
