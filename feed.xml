@@ -877,5 +877,21 @@
         ▶️ Enlace al post que cuenta el caso que describimos: https://twitter.com/ClaraGrima/status/1753169762727706697
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.22] 	◀️ La estafa triangular: Dos engañados y un criminal</title>
+      <pubDate>02/19/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa22.m4a"/>
+      <itunes:duration>5:10</itunes:duration>
+      <guid isPermaLink="false">cepod59</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E22.jpg"/>
+      <description>
+        ▶️ Cómo funciona la estafa triangular de la que está alertando el Gobierno: https://www.eleconomista.es/tecnologia/noticias/12636232/01/24/como-funciona-la-estafa-triangular-de-la-que-esta-alertando-el-gobierno.html
+        ▶️ La estafa triangular es un peligro: la Policía alerta sobre el fraude que va enlazando afectados: https://www.xataka.com/seguridad/policia-alerta-nuevo-fraude-que-va-enlazando-afectados-estafa-triangular
+        ▶️ Cuidado con la 'estafa triangular': cuando tú no eres el estafado… sino el que asume las culpas del estafador: https://www.genbeta.com/seguridad/cuidado-estafa-triangular-cuando-tu-no-eres-estafado-sino-que-asume-culpas-estafador
+      </description>
+    </item>
   </channel>
 </rss>
