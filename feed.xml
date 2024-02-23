@@ -261,10 +261,7 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT1E17.jpeg"/>
       <description>
-      📰 Noticias Relacionadas:
-            ▶️ ¿Has recibido un SMS de un cargo en tu cuenta de Abanca? Cuidado podría ser un smishing (23/01/2023): https://www.osi.es/es/actualidad/avisos/2023/01/has-recibido-un-sms-de-un-cargo-en-tu-cuenta-de-abanca-cuidado-podria-ser
-            ▶️ Alerta si es cliente de Abanca: este SMS puede robar sus claves de seguridad (24/01/2023): https://www.larazon.es/economia/20230124/aynd2swttnhytojs5bttrd4ubm.html      
-      </description>
+        ¿Quieres saber más del tema? ¡Lee esto!: https://github.com/jose-r-lopez/Fraudes-y-Timos/blob/main/Case%20Files/T1E17.%20La%20compra%20que%20nunca%20fue.pdf?raw=true      </description>
     </item>
     <item>
       <author>José Manuel Redondo</author>
