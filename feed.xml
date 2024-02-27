@@ -905,5 +905,35 @@
         ▶️ El telar de la abundancia: Cómo evitar caer en el engaño (16/01/2022): https://www.iprofesional.com/recreo/355703-el-telar-de-la-abundancia-como-evitar-caer-en-el-engano
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.24] 🤔 El timo del trabajo trivial que te llega por mensajería</title>
+      <pubDate>03/04/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa24.m4a"/>
+      <itunes:duration>4:52</itunes:duration>
+      <guid isPermaLink="false">cepod61</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E24.jpg"/>
+      <description>
+        ▶️ Un ejemplo real de un trabajo de esta clase: https://twitter.com/tenshy1986/status/1758868436749258785
+        ▶️ Otro ejemplo real: https://twitter.com/HereIsDLS/status/1726924591384465438
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.25] 🤕 El timo de las falsas cuentas que te quieren ayudar a resolver un problema en redes sociales</title>
+      <pubDate>03/11/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa25.m4a"/>
+      <itunes:duration>4:57</itunes:duration>
+      <guid isPermaLink="false">cepod62</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E25.jpg"/>
+      <description>
+        ▶️ Un ejemplo real de una petición de ayuda con respuestas hechas por este tipo de cuentas: https://twitter.com/josejuniors2/status/1761574684246651057
+        ▶️ Otro ejemplo real: hhttps://twitter.com/naancydrew/status/1762564680042586232
+      </description>
+    </item>
   </channel>
 </rss>
