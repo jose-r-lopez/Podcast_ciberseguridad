@@ -938,5 +938,22 @@
         ▶️ "El cambio de router es gratuito": Nuevo timo telefonico que advierte la OCU: https://www.20minutos.es/noticia/5220365/0/cambio-router-es-gratuito-nuevo-timo-telefonico-que-advierte-ocu/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.27] 👁️ La que ha liado el de la IA con la biometría: Verdades y mentiras con el escaneo del iris</title>
+      <pubDate>04/11/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa27.m4a"/>
+      <itunes:duration>5:08</itunes:duration>
+      <guid isPermaLink="false">cepod64</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E27.jpg"/>
+      <description>
+        ▶️ https://www.lasexta.com/programas/mas-vale-tarde/experta-derecho-digital-prohibicion-escanear-iris-problema-dar-dato-como-utilizan-empresas_2024030765ea0e46dac8310001fe013f.html
+        ▶️ https://as.com/actualidad/sociedad/espana-prohibe-a-worldcoin-escanear-mas-iris-que-pasa-con-los-que-ya-ha-recogido-n/
+        ▶️ https://www.adslzone.net/noticias/seguridad/no-dejes-escanear-iris-worldcoin-peor-error/
+        ▶️ https://elpais.com/economia/mis-derechos/2024-03-12/caso-worldcoin-tengo-que-devolver-el-pago-recibido-por-escanear-mi-iris-si-quiero-rescatarlo.html#
+      </description>
+    </item>
   </channel>
 </rss>
