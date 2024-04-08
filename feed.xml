@@ -955,5 +955,19 @@
         ▶️ https://elpais.com/economia/mis-derechos/2024-03-12/caso-worldcoin-tengo-que-devolver-el-pago-recibido-por-escanear-mi-iris-si-quiero-rescatarlo.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.28] 👁️ Extorsión forzada: Cómo te simulan que has cometido un delito por redes sociales</title>
+      <pubDate>04/08/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa28.m4a"/>
+      <itunes:duration>4:45</itunes:duration>
+      <guid isPermaLink="false">cepod65</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E28.jpg"/>
+      <description>
+        ▶️ https://www.lacardigital.com.ar/la-nueva-estafa-envian-fotos-de-menores-y-extorsionan-a-traves-de-redes-sociales/
+      </description>
+    </item>
   </channel>
 </rss>
