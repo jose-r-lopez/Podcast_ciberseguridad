@@ -968,5 +968,22 @@
         ▶️ https://www.lacardigital.com.ar/la-nueva-estafa-envian-fotos-de-menores-y-extorsionan-a-traves-de-redes-sociales/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.29] ⛔️🏅 No por mucho publicar investigas más, hermano</title>
+      <pubDate>04/15/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa29.m4a"/>
+      <itunes:duration>5:00</itunes:duration>
+      <guid isPermaLink="false">cepod66</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E29.jpg"/>
+      <description>
+        ▶️ La investigadora de fraudes académicos Elisabeth Bik: https://twitter.com/MicrobiomDigest
+        ▶️ Cuentas de Twitter que destapan fraudes académicos: https://twitter.com/fake_journals, https://twitter.com/PredatoryReport y https://twitter.com/OIntegridadEsp
+        ▶️ BBDD de retractaciones: http://retractiondatabase.org/RetractionSearch.aspx
+        ▶️ El fraude académico, hoy. Revista Nature: https://www.nature.com/articles/d41586-023-03974-8
+      </description>
+    </item>
   </channel>
 </rss>
