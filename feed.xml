@@ -983,5 +983,21 @@
         ▶️ El fraude académico, hoy. Revista Nature: https://www.nature.com/articles/d41586-023-03974-8
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.30] 😓 Ganga's paradise: el caso de las falsas tiendas en redes sociales</title>
+      <pubDate>04/22/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa30.m4a"/>
+      <itunes:duration>4:47</itunes:duration>
+      <guid isPermaLink="false">cepod67</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E30.jpg"/>
+      <description>
+        ▶️ https://www.im.education/blog/estafas-instagram-consejos/
+        ▶️ https://elpais.com/economia/negocios/2024-01-26/mucho-ojo-con-la-estafa-de-las-tiendas-clonadas-ya-hay-cientos-de-personas-atrapadas.html
+        ▶️ https://m.facebook.com/help/instagram/396314741132037?locale2=es_ES
+      </description>
+    </item>
   </channel>
 </rss>
