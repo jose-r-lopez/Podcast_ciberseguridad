@@ -1022,7 +1022,22 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E32.jpg"/>
       <description>
-        ▶️ https://www.epe.es/es/reportajes/20240406/trampa-cursos-aprender-programar-meses-100655847
+        ▶️ La trampa de los cursos para aprender a programar en meses: “Te endeudas y no consigues trabajo”: https://www.epe.es/es/reportajes/20240406/trampa-cursos-aprender-programar-meses-100655847
+      </description>
+    </item>
+     <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.33] 🕹️ Los cursos milagro pueden ser hasta algo macabro</title>
+      <pubDate>05/13/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa33.m4a"/>
+      <itunes:duration>5:03</itunes:duration>
+      <guid isPermaLink="false">cepod70</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E33.jpg"/>
+      <description>
+        ▶️ Así es el 'curso' que enseña a hombres a hacer de 'managers' de chicas en Onlyfans y quedarse con la mitad de sus beneficios: https://www.lasexta.com/programas/equipo-investigacion/asi-curso-que-ensena-hombres-hacer-managers-chicas-onlyfans-quedarse-mitad-sus-beneficios_2024031565f4cb2bdac831000173b92f.html
+        ▶️ Andorra investiga al ‘rey’ de Onlyfans por proxenetismo: https://elpais.com/espana/catalunya/2024-03-18/andorra-investiga-al-rey-de-onlyfans-por-proxenetismo.html
       </description>
     </item>
   </channel>
