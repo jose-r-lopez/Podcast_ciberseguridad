@@ -1039,5 +1039,20 @@
         ▶️ Andorra investiga al ‘rey’ de Onlyfans por proxenetismo: https://elpais.com/espana/catalunya/2024-03-18/andorra-investiga-al-rey-de-onlyfans-por-proxenetismo.html
       </description>
     </item>
+         <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.34] 🟢 Esto es lo que pasa si un desconocido te pide compartir pantalla en el "Wasa"</title>
+      <pubDate>05/27/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa34.m4a"/>
+      <itunes:duration>4:55</itunes:duration>
+      <guid isPermaLink="false">cepod71</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E34.jpg"/>
+      <description>
+        ▶️ Cómo compartir la pantalla de tu móvil en una videollamada de WhatsApp: https://www.xatakamovil.com/tutoriales/como-compartir-pantalla-tu-movil-videollamada-whatsapp
+        ▶️ La sutil estafa en WhatsApp que roba tus datos bancarios con tan solo pulsar un botón: https://www.20minutos.es/tecnologia/ciberseguridad/whatsapp-datos-banco-estafa-boton-videollamada-5241644/
+      </description>
+    </item>
   </channel>
 </rss>
