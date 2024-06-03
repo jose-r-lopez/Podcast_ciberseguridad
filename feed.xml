@@ -1038,7 +1038,7 @@
         ▶️ Andorra investiga al ‘rey’ de Onlyfans por proxenetismo: https://elpais.com/espana/catalunya/2024-03-18/andorra-investiga-al-rey-de-onlyfans-por-proxenetismo.html
       </description>
     </item>
-         <item>
+    <item>
       <author>José Manuel Redondo</author>
       <itunes:author>José Manuel Redondo</itunes:author>
       <title>[T2.34] 🟢 Esto es lo que pasa si un desconocido te pide compartir pantalla en el "Wasa"</title>
@@ -1051,6 +1051,23 @@
       <description>
         ▶️ Cómo compartir la pantalla de tu móvil en una videollamada de WhatsApp: https://www.xatakamovil.com/tutoriales/como-compartir-pantalla-tu-movil-videollamada-whatsapp
         ▶️ La sutil estafa en WhatsApp que roba tus datos bancarios con tan solo pulsar un botón: https://www.20minutos.es/tecnologia/ciberseguridad/whatsapp-datos-banco-estafa-boton-videollamada-5241644/
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.35] 🐴 Si haces de mula de dinero, puedes acabar prisionero</title>
+      <pubDate>06/03/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa35.m4a"/>
+      <itunes:duration>5:05</itunes:duration>
+      <guid isPermaLink="false">cepod72</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E35.jpg"/>
+      <description>
+        ▶️ https://www.20minutos.es/lainformacion/economia/las-transferencias-se-declaran-hacienda-si-superan-un-limite-5276453/
+        ▶️ https://www.diariojudicial.com/news-95479-la-cibermula-no-tiene-excusas
+        ▶️ https://www.granadahoy.com/provincia/cae-Granada-trama-jubilados-estafar-tarjetas-debito-empresas_0_1667834148.html
+        ▶️ https://ayudaleyprotecciondatos.es/2021/08/26/mulas-de-dinero/
       </description>
     </item>
   </channel>
