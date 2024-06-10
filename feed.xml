@@ -1069,5 +1069,22 @@
         ▶️ https://ayudaleyprotecciondatos.es/2021/08/26/mulas-de-dinero/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.36] 📜 Los robos de datos nos van a poner en aprietos</title>
+      <pubDate>06/10/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa36.m4a"/>
+      <itunes:duration>5:13</itunes:duration>
+      <guid isPermaLink="false">cepod73</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E36.jpg"/>
+      <description>
+        ▶️ El robo de datos a Iberdrola, Telefónica y Santander es la prueba de un fallo más grave: https://www.elconfidencial.com/tecnologia/2024-05-31/iberdrola-telefonica-santander-ciberataques-konecta-snowflake_3892772/
+        ▶️ Ciberataques en Santander, Iberdrola Telefónica y la DGT: https://www.expansion.com/economia-digital/2024/06/01/665a3102e5fdea510a8b4587.html
+        ▶️ Iberdrola sufre una filtración de datos de 850.000 clientes en España: https://cso.computerworld.es/empresas/iberdrola-sufre-una-filtracion-de-datos-de-850000-clientes-en-espana
+        ▶️ Ticketmaster, Iberdrola, El Santander… ¿Cómo debo actuar si soy víctima de una filtración de datos? https://www.adslzone.net/noticias/seguridad/como-actuar-ataque-filtracion-datos-ocu/
+      </description>
+    </item>
   </channel>
 </rss>
