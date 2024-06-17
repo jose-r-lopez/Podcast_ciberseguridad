@@ -1086,5 +1086,20 @@
         ▶️ Ticketmaster, Iberdrola, El Santander… ¿Cómo debo actuar si soy víctima de una filtración de datos? https://www.adslzone.net/noticias/seguridad/como-actuar-ataque-filtracion-datos-ocu/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T2.37] 💳 El timo de la CTA Asturiana: Un ejemplo de falso sorteo</title>
+      <pubDate>06/17/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t2/Programa37.m4a"/>
+      <itunes:duration>4:59</itunes:duration>
+      <guid isPermaLink="false">cepod74</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT2E37.jpg"/>
+      <description>
+        ▶️ Alerta por estafa en Asturias: ofrecen viajes gratis con la tarjeta CONECTA, pero quieren robarte los datos bancarios: https://www.elcomercio.es/asturias/alerta-estafa-asturias-tarjetas-conecta-cta-viajes-gratis-robar-datos-banco-20240530161123-nt.html 
+        ▶️ Cuidado si recibes esta oferta de la tarjeta CONECTA de transporte en Asturias: es una estafa y no es cierto que vayas a viajar gratis: https://www.lne.es/asturias/2024/05/30/cuidado-recibes-oferta-tarjeta-conecta-103119691.html
+      </description>
+    </item>
   </channel>
 </rss>
