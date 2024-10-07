@@ -1128,5 +1128,20 @@
         ▶️ El Bluesnarfing: https://es.wikipedia.org/wiki/Bluesnarfing
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.1] ☠️ Solo anuncios falsos en el edificio: Estafas que usan la actualidad y campañas de anuncios pagados</title>
+      <pubDate>10/07/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa1.m4a"/>
+      <itunes:duration>4:59</itunes:duration>
+      <guid isPermaLink="false">cepod77</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E1.jpg"/>
+      <description>
+        ▶️ Cuidado con esta publicación que dice que Daniel Sancho “cometió el asesinato” para mantener en secreto una supuesta plataforma de inversión: es un timo: https://maldita.es/timo/bulo/20240920/daniel-sancho-plataforma-inversion-asesinato/
+        ▶️ Daniel Sancho, relacionado con una estafa millonaria y obliga a intervenir a FACUA: https://www.esdiario.com/chismografo/240927/143774/daniel-sancho-relacionado-estafa-millonaria-obliga-intervenir-facua.html
+      </description>
+    </item>
   </channel>
 </rss>
