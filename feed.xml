@@ -1158,5 +1158,21 @@
         ▶️ La alerta de Mossos sobre la estafa que vacía las cuentas bancarias en Catalunya: https://www.elperiodico.com/es/sucesos/20241007/banco-llamada-falsa-fraude-estafa-vishing-spoofing-pshishing-dv-93425762
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.3] ⏺️ Si te llama una grabación por un trabajo, es para pegarle a tu dinero un tajo </title>
+      <pubDate>10/21/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa3.m4a"/>
+      <itunes:duration>5:06</itunes:duration>
+      <guid isPermaLink="false">cepod79</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E3.jpeg"/>
+      <description>
+        ▶️ "Hemos recibido tu currículum": la última estafa que asusta por móvil a los sevillanos: https://www.elcorreoweb.es/sociedad/2024/09/22/hemos-recibido-curriculum-ultima-estafa-108431360.html
+        ▶️ La estafa telefónica que no deja de crecer en España: https://www.20minutos.es/tecnologia/ciberseguridad/nueva-estafa-trabajo-llamada-telefonica-curriculum-5639062/
+        ▶️ La estafa del currículum: el fraude de moda: https://www.larazon.es/sociedad/nueva-estafa-curriculum-ciberdelicuentes-online_202410076703b78464da62000178e32d.html
+      </description>
+    </item>
   </channel>
 </rss>
