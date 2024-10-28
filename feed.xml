@@ -1174,5 +1174,21 @@
         ▶️ La estafa del currículum. El fraude de moda: https://www.larazon.es/sociedad/nueva-estafa-curriculum-ciberdelicuentes-online_202410076703b78464da62000178e32d.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.4] 🎓🥺 No, no le debes parte de tu matrícula a tu Universidad </title>
+      <pubDate>10/28/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa4.m4a"/>
+      <itunes:duration>5:00</itunes:duration>
+      <guid isPermaLink="false">cepod80</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E4.jpeg"/>
+      <description>
+        ▶️ Si eres universitario, no caigas en este engaño sobre el pago de tu matrícula: https://www.incibe.es/ciudadania/avisos/si-eres-universitario-no-caigas-en-este-engano-sobre-el-pago-de-tu-matricula
+        ▶️ La estafa de las tasas de la matrícula de la Universidad: Si no liquida su deuda pasará al departamento de litigios: https://www.elespanol.com/espana/20240927/estafa-tasas-matricula-universidad-no-liquida-deuda-pasara-departamento-litigios/888911698_0.html
+        ▶️ Atención, estudiantes: las universidades españolas advierten de una estafa relacionada con las matrículas: https://cadenaser.com/nacional/2024/10/14/atencion-estudiantes-las-universidades-espanolas-advierten-de-la-estafa-de-las-matriculas-cadena-ser/
+      </description>
+    </item>
   </channel>
 </rss>
