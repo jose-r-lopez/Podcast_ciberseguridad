@@ -1190,5 +1190,22 @@
         ▶️ Atención, estudiantes: las universidades españolas advierten de una estafa relacionada con las matrículas: https://cadenaser.com/nacional/2024/10/14/atencion-estudiantes-las-universidades-espanolas-advierten-de-la-estafa-de-las-matriculas-cadena-ser/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.5] 🔌 Fuiste a cargar batería y madre mia: ataques a coches eléctricos </title>
+      <pubDate>11/04/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa5.m4a"/>
+      <itunes:duration>5:09</itunes:duration>
+      <guid isPermaLink="false">cepod81</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E5.jpeg"/>
+      <description>
+        ▶️ Así podrían atacar tu coche a través de los puntos de carga rápida: descubren vulnerabilidades de ciberseguridad: https://bitlifemedia.com/2024/09/asi-podrian-atacar-tu-coche-a-traves-de-los-puntos-de-carga-rapida-descubren-vulnerabilidades-de-ciberseguridad/
+        ▶️ Los puntos de carga también se piratean: estos son los riesgos para los conductores: https://motor.elpais.com/coches-electricos/hackers-puntos-recarga-riesgos-para-conductores/
+        ▶️ Los hackers podrían atacar tu coche a través de los puntos de carga rápida: https://www.autocasion.com/actualidad/noticias/hackers-puntos-carga-rapida-coche-electrico
+        ▶️ INCIBE advierte del robo de datos a autónomos en los puntos de recarga de vehículos eléctricos: https://www.autonomosyemprendedor.es/articulo/actualidad/incibe-advierte-que-debe-implantarse-ciberseguridad-puntos-recarga-vehiculos-electricos/20231122000500033287.html
+      </description>
+    </item>
   </channel>
 </rss>
