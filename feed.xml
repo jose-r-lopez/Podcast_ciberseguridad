@@ -1224,5 +1224,21 @@
         ▶️ Cuidado con las estafas y fraudes tras la DANA: https://www.asufin.com/dana-estafa-fraude/
       </description>
     </item>
+     <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.7] 🎥 ¡No sabía que la cámara seguía grabando!. ¿Será el fin de tu cartera? </title>
+      <pubDate>11/18/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa7.m4a"/>
+      <itunes:duration>5:02</itunes:duration>
+      <guid isPermaLink="false">cepod83</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E7.jpg"/>
+      <description>
+        ▶️ Lorena Castell denuncia el uso fraudulento de su imagen para una estafa: https://www.20minutos.es/noticia/5646440/0/lorena-castell-denuncia-uso-fraudulento-su-imagen-para-una-estafa-llevo-mas-un-ano-viendo-estas-publicaciones-falsas/
+        ▶️ Lorena Castell, víctima de una estafa en internet, se harta y lo desmiente todo: https://www.elconfidencial.com/television/programas-tv/2023-10-20/lorena-castell-victima-estafa-harta-desmiente_3758271/
+        ▶️ La estafa que usa la imagen de Broncano se convierte en un meme en redes: https://www.20minutos.es/gonzoo/noticia/5225069/0/estafa-que-usa-imagen-broncano-se-convierte-un-meme-redes-debe-estar-mal-su-casa-viendo-como-le-detienen/
+      </description>
+    </item>
   </channel>
 </rss>
