@@ -1289,5 +1289,23 @@
         ▶️ Monopoly Go: La máquina de generar DINERO y ADICTOS: https://www.youtube.com/watch?v=NomVW1mm4BY
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.11] 💳 Medios de pago seguros para que no te quiten ni un duro (de más) </title>
+      <pubDate>12/16/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa11.m4a"/>
+      <itunes:duration>4:57</itunes:duration>
+      <guid isPermaLink="false">cepod87</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E11.png"/>
+      <description>
+        ▶️ Tarjeta virtual ECash (Ejemplo con el Banco Santander, pero todos los bancos tienen una similar): https://www.bancosantander.es/particulares/cuentas-tarjetas/tarjetas/debito/virtual-e-cash
+        ▶️ Tarjetas regalo para Nintendo: https://www.nintendo.com/es-es/Hardware/Familia-Nintendo-3DS/Contenido-para-descargar/Como-comprar-juegos/Nintendo-eShop-Cards/Nintendo-eShop-Cards-941639.html
+        ▶️ Tarjetas regalo para PlayStation: https://www.playstation.com/es-es/playstation-gift-cards/
+        ▶️ Tarjetas regalo para Google Play: https://www.amazon.es/tarjeta-google-play/s?k=tarjeta+google+play
+        ▶️ Cómo añadir, quitar o modificar un método de pago de Google Play: https://support.google.com/googleplay/answer/4646404?hl=es&co=GENIE.Platform%3DAndroid
+      </description>
+    </item>
   </channel>
 </rss>
