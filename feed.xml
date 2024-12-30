@@ -1323,5 +1323,21 @@
         ▶️ Alerta si recibes un paquete en casa de que no esperabas. Podrías ser víctima de la estafa del brushing: https://www.lavanguardia.com/pop/clic/20241211/10192078/alerta-si-recibes-un-paquete-en-casa-de-que-no-esperabas-podrias-ser-victima-de-la-estafa-del-brushing-pmv.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.13] 🧸👁️ Los peligros del Internet de las Cosas no son un juego </title>
+      <pubDate>12/30/2024</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa13.m4a"/>
+      <itunes:duration>5:05</itunes:duration>
+      <guid isPermaLink="false">cepod89</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E13.png"/>
+      <description>
+        ▶️ Juguetes conectados: https://www.incibe.es/menores/recursos/regalos-y-juguetes-conectados
+        ▶️ Guía para el uso seguro de juguetes conectados: https://www.incibe.es/sites/default/files/contenidos/materiales/Campanas/is4k_guiajuguetesconectados_v1.pdf
+        ▶️ INCIBE presenta un informe pionero sobre la seguridad de los juguetes conectados: https://www.incibe.es/incibe/sala-de-prensa/incibe-presenta-un-informe-pionero-sobre-la-seguridad-de-los-juguetes
+      </description>
+    </item>
   </channel>
 </rss>
