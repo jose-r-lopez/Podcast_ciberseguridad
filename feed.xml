@@ -1339,5 +1339,19 @@
         ▶️ INCIBE presenta un informe pionero sobre la seguridad de los juguetes conectados: https://www.incibe.es/incibe/sala-de-prensa/incibe-presenta-un-informe-pionero-sobre-la-seguridad-de-los-juguetes
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.14] 🗺️ ¿Dónde estás, Wally? </title>
+      <pubDate>01/13/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa14.m4a"/>
+      <itunes:duration>5:10</itunes:duration>
+      <guid isPermaLink="false">cepod90</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E14.png"/>
+      <description>
+        ▶️ Qué dicen los expertos sobre compartir tu ubicación en tiempo real: https://www.20minutos.es/tecnologia/ciberseguridad/que-dicen-los-expertos-sobre-compartir-tu-ubicacion-tiempo-real-5669477/     
+      </description>
+    </item>
   </channel>
 </rss>
