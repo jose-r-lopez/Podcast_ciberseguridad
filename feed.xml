@@ -1353,5 +1353,20 @@
         ▶️ Qué dicen los expertos sobre compartir tu ubicación en tiempo real: https://www.20minutos.es/tecnologia/ciberseguridad/que-dicen-los-expertos-sobre-compartir-tu-ubicacion-tiempo-real-5669477/     
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.15] 🎥 Silencio, camará...¡delito! </title>
+      <pubDate>01/20/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa15.m4a"/>
+      <itunes:duration>5:06</itunes:duration>
+      <guid isPermaLink="false">cepod91</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E15.png"/>
+      <description>
+        ▶️ Cámaras ocultas en AirBNB: Trucos para detectarlas: https://viajar.elperiodico.com/viajeros/camaras-ocultas-airbnb-truco-detectarlas-107239461
+        ▶️ Cómo detectar cámaras ocultas en tu AirBNB con tu Smartphone: https://es.gizmodo.com/como-detectar-camaras-ocultas-en-tu-airbnb-con-tu-smartphone-protege-tu-privacidad-y-seguridad-2000142550
+      </description>
+    </item>
   </channel>
 </rss>
