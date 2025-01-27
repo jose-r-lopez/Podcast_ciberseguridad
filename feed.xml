@@ -1368,5 +1368,21 @@
         ▶️ Cómo detectar cámaras ocultas en tu AirBNB con tu Smartphone: https://es.gizmodo.com/como-detectar-camaras-ocultas-en-tu-airbnb-con-tu-smartphone-protege-tu-privacidad-y-seguridad-2000142550
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.16] 👥 Manipula...que algo queda </title>
+      <pubDate>01/27/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa16.m4a"/>
+      <itunes:duration>5:03</itunes:duration>
+      <guid isPermaLink="false">cepod92</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PortadaT3E16.png"/>
+      <description>
+        ▶️ El astroturfing y la controversia de manipular la opinión pública: https://www.obsbusiness.school/blog/el-astroturfing-y-la-controversia-de-manipular-la-opinion-publica
+        ▶️ De cómo la Púnica y Díaz Ayuso ilustran el astroturfing y los troll center: https://ctxt.es/es/20250101/Politica/48379/astroturfing-troll-center-bots-Alejandro-de-Pedro-Isabel-Diaz-Ayuso.htm
+        ▶️ Astroturfing: qué es, en qué consiste y ejemplos: https://www.diariodenavarra.es/noticias/vivir/tecnologia/2022/02/17/astroturfing-consiste-ejemplos-517776-3195.html
+      </description>
+    </item>
   </channel>
 </rss>
