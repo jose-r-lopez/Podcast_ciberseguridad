@@ -1416,5 +1416,20 @@
         ▶️ ¿Cómo identificar noticias falsas?: https://www.incibe.es/node/504095
       </description>
     </item>
+     <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.19] 👌 Gotta captcha'em all: Captchas que no son lo que parecen </title>
+      <pubDate>02/17/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa19.m4a"/>
+      <itunes:duration>4:57</itunes:duration>
+      <guid isPermaLink="false">cepod95</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E19.jpeg"/>
+      <description>
+        ▶️ Expertos alertan sobre la nueva ola de estafas de los CAPTCHA. España es uno de los países más afectados: https://www.20minutos.es/tecnologia/ciberseguridad/nuevas-estafas-captcha-expertos-alertan-paises-mas-afectados-5664207/
+        ▶️ CSIRT-CV detecta una nueva estafa a través de un captcha falso: https://www.csirtcv.gva.es/riesgo_de_malware_a_traves_de_un_captcha_falso/
+      </description>
+    </item>
   </channel>
 </rss>
