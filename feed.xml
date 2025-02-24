@@ -1431,5 +1431,20 @@
         ▶️ CSIRT-CV detecta una nueva estafa a través de un captcha falso: https://www.csirtcv.gva.es/riesgo_de_malware_a_traves_de_un_captcha_falso/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.20] 🪨 ¡Pongámonos físicos! Trucos de seguridad física para el día a día </title>
+      <pubDate>02/24/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa20.m4a"/>
+      <itunes:duration>5:05</itunes:duration>
+      <guid isPermaLink="false">cepod96</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E20.jpeg"/>
+      <description>
+        ▶️ Protecciones físicas que pueden evitar riesgos de ciberseguridad: https://www.incibe.es/ciudadania/blog/protecciones-fisicas-evitar-riesgos-ciberseguridad
+        ▶️ El punto en el que la seguridad y la ciberseguridad convergen: https://www.incibe.es/incibe-cert/blog/el-punto-el-seguridad-y-ciberseguridad-convergen
+      </description>
+    </item>
   </channel>
 </rss>
