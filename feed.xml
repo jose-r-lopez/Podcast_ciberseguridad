@@ -1446,5 +1446,19 @@
         ▶️ El punto en el que la seguridad y la ciberseguridad convergen: https://www.incibe.es/incibe-cert/blog/el-punto-el-seguridad-y-ciberseguridad-convergen
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.21] 🎰 La publicidad dirigida puede ser una cosa totalmente perdida </title>
+      <pubDate>03/03/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa21.m4a"/>
+      <itunes:duration>5:12</itunes:duration>
+      <guid isPermaLink="false">cepod97</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E21.jpeg"/>
+      <description>
+        ▶️ Gambling firms secretly shared users data with Facebook without permission: https://www.theguardian.com/society/2025/feb/08/gambling-firms-secretly-shared-users-data-with-facebook-without-permission
+      </description>
+    </item>
   </channel>
 </rss>
