@@ -1476,5 +1476,49 @@
         ▶️ Navegador Brave: https://brave.com/es/
       </description>
     </item>
+     <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.23] 📱😈 Filtraciones de datos que hacen pasar malos ratos </title>
+      <pubDate>03/17/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa23.m4a"/>
+      <itunes:duration>5:05</itunes:duration>
+      <guid isPermaLink="false">cepod99</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E23.jpeg"/>
+      <description>
+        ▶️ El Corte Inglés informa de un robo de datos de clientes a través de un proveedor externo: https://www.eldiario.es/economia/corte-ingles-informa-acceso-no-autorizado-datos-clientes-asegura-no-hay-riesgo-fraude_1_12098116.html
+        ▶️ El timo del iPhone nuevo: así funciona la estafa que suplanta a las operadoras para cambiar de móvil: https://www.eldiario.es/tecnologia/timo-iphone-nuevo-funciona-estafa-suplanta-operadoras-cambiar-movil_1_12082563.html 
+      </description>
+    </item>
+     <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.24] ℹ️ Cuando el tajo vuela bajo, cuidado con quien te ofrece trabajo: Estafas en LinkedIn </title>
+      <pubDate>03/24/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa24.m4a"/>
+      <itunes:duration>5:05</itunes:duration>
+      <guid isPermaLink="false">cepod100</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E24.jpeg"/>
+      <description>
+        ▶️ 11 LinkedIn scams to avoid: https://us.norton.com/blog/online-scams/linkedin-scams
+        ▶️ Las estafas también se producen en LinkedIn: cuáles son y cómo evitar que te engañen en tu búsqueda de empleo: https://www.20minutos.es/tecnologia/ciberseguridad/estafas-linkedin-cuales-son-evitar-timo-5628100/
+      </description>
+    </item>
+     <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.25] 🍔 Aceptar esa hamburguesa si que pesa </title>
+      <pubDate>03/31/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa25.m4a"/>
+      <itunes:duration>5:07</itunes:duration>
+      <guid isPermaLink="false">cepod101</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E25.jpeg"/>
+      <description>
+        ▶️ La estafa de la hamburguesa llega a España: en qué consiste y cómo evitar que te timen: https://cadenaser.com/nacional/2025/03/09/la-estafa-de-la-hamburguesa-llega-a-espana-en-que-consiste-y-como-evitar-que-te-timen-cadena-ser/
+      </description>
+    </item>
   </channel>
 </rss>
