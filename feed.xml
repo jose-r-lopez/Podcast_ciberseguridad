@@ -1534,5 +1534,19 @@
         ▶️ Web oficial del proyecto No More Ransom: https://www.nomoreransom.org/es/index.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.27] 🇪🇺 Por si quieres hacerles un hUEco: Alternativas software de la UE </title>
+      <pubDate>04/21/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa27.m4a"/>
+      <itunes:duration>5:01</itunes:duration>
+      <guid isPermaLink="false">cepod103</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E27.jpeg"/>
+      <description>
+        ▶️ Web oficial del proyecto European Alternatives: https://european-alternatives.eu/
+      </description>
+    </item>
   </channel>
 </rss>
