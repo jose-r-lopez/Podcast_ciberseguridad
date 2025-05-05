@@ -1562,5 +1562,19 @@
         ▶️ Spoofing telefónico. Cuando la llamada parece legítima: https://www.incibe.es/ciudadania/blog/spoofing-telefonico-cuando-la-llamada-parece-legitima
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.29] ⚫ ¡Que no te hagan un apagón en la cartera ni en el cerebro!</title>
+      <pubDate>05/25/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa29.m4a"/>
+      <itunes:duration>5:01</itunes:duration>
+      <guid isPermaLink="false">cepod105</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E29.jpeg"/>
+      <description>
+        ▶️ Si recibes este SMS sobre el apagón del lunes, no pinches: https://www.20minutos.es/tecnologia/ciberseguridad/sms-apagon-instala-app-falsa-roba-datos-bancarios-5705888/
+      </description>
+    </item>
   </channel>
 </rss>
