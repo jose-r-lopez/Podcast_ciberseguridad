@@ -1577,5 +1577,20 @@
         ▶️ Maldito Bulo (desmentir desinformación): https://maldita.es/malditobulo/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.30] 📱💸 A tu lado no me siento seguro: ¡Cuidado con lo que contratas!</title>
+      <pubDate>05/12/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa30.m4a"/>
+      <itunes:duration>5:05</itunes:duration>
+      <guid isPermaLink="false">cepod106</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E30.jpeg"/>
+      <description>
+        ▶️ TrustPilot. Web de valoraciones de empresas y negocios: https://es.trustpilot.com/
+        ▶️ TrustPilot. Categoría de seguros para estudiantes: https://es.trustpilot.com/categories/student_insurance_company
+      </description>
+    </item>
   </channel>
 </rss>
