@@ -1592,5 +1592,23 @@
         ▶️ TrustPilot. Categoría de seguros para estudiantes: https://es.trustpilot.com/categories/student_insurance_company
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.31] 🎫 Esta entrada es una tangada: Problemas en la (re)venta de entradas online</title>
+      <pubDate>05/19/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa31.m4a"/>
+      <itunes:duration>5:08</itunes:duration>
+      <guid isPermaLink="false">cepod107</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E31.jpeg"/>
+      <description>
+        ▶️ https://www.antena3.com/noticias/economia/estafadores-hacen-agosto-reventa-entradas-grandes-eventos_20240601665ab9286a0d130001e27555.html
+        ▶️ https://maldita.es/timo/20250109/entradas-reventa-timo-pago-cajero-codigo-efectivo/
+        ▶️ https://www.elplural.com/playtime/como-evitar-ser-estafado-compra-entradas-bad-bunny_351810102
+        ▶️ https://www.siliconweek.com/security/5-estafas-habituales-relacionadas-a-ticketmaster-como-los-estafadores-se-roban-el-show-110497
+        ▶️ https://cronicaglobal.elespanol.com/vida/20250509/fraude-portales-de-apuestas-consumo-la-declaracion/1003742655801_0.amp.html
+      </description>
+    </item>
   </channel>
 </rss>
