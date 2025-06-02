@@ -1628,5 +1628,20 @@
         ▶️ Noticias de suplantación del INCIBE: https://www.incibe.es/index.php/incibe/tags/suplantaci%C3%B3n
       </description>
     </item>
+     <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.33] 📞😈 Como pillar a un cansino: Defensa contra las llamadas oscuras</title>
+      <pubDate>06/02/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa33.m4a"/>
+      <itunes:duration>5:10</itunes:duration>
+      <guid isPermaLink="false">cepod109</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E33.jpeg"/>
+      <description>
+        ▶️ Como saber si una llamada es spam: https://www.lavanguardia.com/andro4all/operadoras/como-saber-si-una-llamada-perdida-era-en-realidad-spam
+        ▶️ Evita el spam con unas sencillas pautas: https://www.incibe.es/ciudadania/blog/evita-el-spam-con-unas-sencillas-pautas
+      </description>
+    </item>
   </channel>
 </rss>
