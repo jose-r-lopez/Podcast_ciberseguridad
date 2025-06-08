@@ -1643,5 +1643,21 @@
         ▶️ Evita el spam con unas sencillas pautas: https://www.incibe.es/ciudadania/blog/evita-el-spam-con-unas-sencillas-pautas
       </description>
     </item>
+      <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.34] 🎁🤔 ¿Son de verdad los regalos que ofrecen algunas tiendas por descargar su app?</title>
+      <pubDate>06/08/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa34.m4a"/>
+      <itunes:duration>5:08</itunes:duration>
+      <guid isPermaLink="false">cepod110</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E34.jpeg"/>
+      <description>
+        ▶️ Temu regala una tablet por instalar la app. ¿Es verdad o falso? https://www.movilzona.es/noticias/aplicaciones/verdad-regalos-temu/
+        ▶️ ¿Temu ofrece ‘regalos’? Esta es la verdad sobre los obsequios y artículos gratuitos https://www.eltiempo.com/cultura/gente/temu-ofrece-regalos-esta-es-la-verdad-sobre-los-obsequios-y-articulos-gratuitos-3436047
+        ▶️ ¿Son reales los premios de Temu en juegos y sorteos? https://www.movilzona.es/noticias/aplicaciones/regalos-gratis-temu-verdad-oculta/ 
+      </description>
+    </item>
   </channel>
 </rss>
