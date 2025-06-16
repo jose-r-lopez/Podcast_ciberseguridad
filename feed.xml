@@ -1659,5 +1659,20 @@
         ▶️ ¿Son reales los premios de Temu en juegos y sorteos? https://www.movilzona.es/noticias/aplicaciones/regalos-gratis-temu-verdad-oculta/ 
       </description>
     </item>
+     <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.35] 🤖 En la granja de Eloncito, IA, IA, Ouch!: Malos usos de la IA</title>
+      <pubDate>06/16/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa35.m4a"/>
+      <itunes:duration>5:15</itunes:duration>
+      <guid isPermaLink="false">cepod111</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E35.jpeg"/>
+      <description>
+        ▶️ Acusan a Grok (la IA de Elon Musk) de desnudar a mujeres sin su consentimiento: https://blog.elhacker.net/2025/05/acusan-grok-ia-elon-musk-desnudar-mujeres-sin-su-consentimiento.html 
+        ▶️ 'Deepfakes' sexuales: el caso de las menores de Almendralejo consolida una nueva forma de violencia machista: https://www.eldiario.es/sociedad/deepfakes-sexuales-caso-menores-almendralejo-consolida-nueva-forma-violencia-machista_1_10527153.html
+      </description>
+    </item>
   </channel>
 </rss>
