@@ -1674,5 +1674,20 @@
         ▶️ 'Deepfakes' sexuales: el caso de las menores de Almendralejo consolida una nueva forma de violencia machista: https://www.eldiario.es/sociedad/deepfakes-sexuales-caso-menores-almendralejo-consolida-nueva-forma-violencia-machista_1_10527153.html
       </description>
     </item>
+     <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.36] 🪪 MiDNI: Un DNI digital que no está nada mal</title>
+      <pubDate>06/23/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa36.m4a"/>
+      <itunes:duration>5:08</itunes:duration>
+      <guid isPermaLink="false">cepod112</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E36.jpeg"/>
+      <description>
+        ▶️ Portal oficial de MiDNI: https://www.midni.gob.es/
+        ▶️ La AEPD informa de que no está permitido solicitar una copia del DNI o pasaporte en los hospedajes: https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-informa-de-que-no-esta-permitido-solicitar-copia-dni-o-pasaporte-en-hospedajes
+      </description>
+    </item>
   </channel>
 </rss>
