@@ -1689,5 +1689,22 @@
         ▶️ La AEPD informa de que no está permitido solicitar una copia del DNI o pasaporte en los hospedajes: https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-informa-de-que-no-esta-permitido-solicitar-copia-dni-o-pasaporte-en-hospedajes
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T3.37] 🐾 El tracking a mi cartera hace hacking: Publicidad MUY dirigida</title>
+      <pubDate>06/30/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t3/Programa37.m4a"/>
+      <itunes:duration>5:15</itunes:duration>
+      <guid isPermaLink="false">cepod113</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT3E37.jpeg"/>
+      <description>
+        ▶️ Anuncios de maquillaje cuando ovulas y de test de embarazo antes de la regla: así es cómo las 'apps' para controlar el ciclo menstrual venden tus datos: https://www.elperiodico.com/es/sociedad/20250615/apps-control-menstruacion-regla-venta-datos-118598547
+        ▶️ Apps menstruales: mina de oro para anunciantes y riesgo para la seguridad de las mujeres: https://www.agenciasinc.es/Noticias/Apps-menstruales-mina-de-oro-para-anunciantes-y-riesgo-para-la-seguridad-de-las-mujeres
+        ▶️ “Me aparecen muchos anuncios de maquillaje en los días anteriores a la regla, cuando estoy más insegura de mi aspecto”: https://www.lavanguardia.com/neo/sociedad-neo/20250627/10825606/me-aparecen-anuncios-maquillaje-dias-anteriores-regla-mas-insegura-mi-aspecto-apps-menstruales-facilitarte-vida-ponen-riesgo-tus-datos-mas-sensibles.html
+        ▶️ De la publicidad cosmética en épocas fértiles a la seguridad laboral: los riesgos que pueden entrañar las apps menstruales: https://www.huffingtonpost.es/life/salud/de-publicidad-cosmetica-epocas-fertiles-seguridad-laboral-riesgos-entranar-apps-menstruales.html
+      </description>
+    </item>
   </channel>
 </rss>
