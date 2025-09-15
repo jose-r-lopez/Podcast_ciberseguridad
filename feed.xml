@@ -1706,5 +1706,19 @@
         ▶️ De la publicidad cosmética en épocas fértiles a la seguridad laboral: los riesgos que pueden entrañar las apps menstruales: https://www.huffingtonpost.es/life/salud/de-publicidad-cosmetica-epocas-fertiles-seguridad-laboral-riesgos-entranar-apps-menstruales.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.1] 👨‍💼 Ese no es el jefe de Temu: Publicidad engañosa (y pesada)</title>
+      <pubDate>09/15/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa1.m4a"/>
+      <itunes:duration>5:06</itunes:duration>
+      <guid isPermaLink="false">cepod114</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E1.jpg"/>
+      <description>
+        ▶️ Cómo identificar publicidad falsa en YouTube o Chrome: https://www.infobae.com/tecno/2023/04/03/como-identificar-publicidad-falsa-en-youtube-o-chrome/
+      </description>
+    </item>
   </channel>
 </rss>
