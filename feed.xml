@@ -1720,5 +1720,20 @@
         ▶️ Cómo identificar publicidad falsa en YouTube o Chrome: https://www.infobae.com/tecno/2023/04/03/como-identificar-publicidad-falsa-en-youtube-o-chrome/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.2] 👨‍💼 El timo del "empleado ejemplar": ¡No creas a quien te llama!</title>
+      <pubDate>09/29/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa2.m4a"/>
+      <itunes:duration>5:02</itunes:duration>
+      <guid isPermaLink="false">cepod115</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E2.png"/>
+      <description>
+        ▶️ La Policía alerta de la proliferación en Oviedo del timo del "empleado ejemplar": https://www.elcomercio.es/oviedo/policia-alerta-proliferacion-oviedo-timo-empleado-ejemplar-20250603220415-nt.html
+        ▶️ ¿En qué consiste la estafa del jefe? Así es este fraude: https://www.rtve.es/television/20250729/estafa-jefe-fraude-perder-empresario-tenerife/16680456.shtml
+      </description>
+    </item>
   </channel>
 </rss>
