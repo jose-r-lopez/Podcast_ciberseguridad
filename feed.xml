@@ -1750,5 +1750,20 @@
         ▶️ Defraudan 1,5 millones de euros por el método de la “estafa del amor”: https://www.interior.gob.es/opencms/es/detalle/articulo/Defraudan-15-millones-de-euros-por-el-metodo-de-la-estafa-del-amor/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.4] 🤢💬 Grupos de mensajería que ¡Ay madre mía!</title>
+      <pubDate>10/20/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa4.m4a"/>
+      <itunes:duration>5:07</itunes:duration>
+      <guid isPermaLink="false">cepod117</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E4.png"/>
+      <description>
+        ▶️ La Ertzaintza investiga dos chats con contenido sexual: https://elpais.com/sociedad/2023-11-22/la-ertzaintza-investiga-dos-chats-con-contenido-sexual-y-vejatorio-con-un-millar-de-menores-de-san-sebastian-implicados.html
+        ▶️ Un colegio de Donostia alerta de un chat para alumnos con contenido inapropiado: https://www.diariovasco.com/gipuzkoa/colegio-donostia-alerta-chat-alumnos-contenido-inapropiado-20240924061541-nt.html
+      </description>
+    </item>
   </channel>
 </rss>
