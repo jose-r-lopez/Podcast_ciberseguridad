@@ -1765,5 +1765,22 @@
         ▶️ Un colegio de Donostia alerta de un chat para alumnos con contenido inapropiado: https://www.diariovasco.com/gipuzkoa/colegio-donostia-alerta-chat-alumnos-contenido-inapropiado-20240924061541-nt.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.5] 🤯💼 Trabajo que llueve del cielo es tomadura de pelo</title>
+      <pubDate>10/27/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa5.m4a"/>
+      <itunes:duration>5:10</itunes:duration>
+      <guid isPermaLink="false">cepod118</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E5.png"/>
+      <description>
+        ▶️ 11 ejemplos de ofertas de empleo falsas que circulan por WhatsApp: https://www.welivesecurity.com/es/estafas-enganos/ofertas-empleo-falsas-circulan-whatsapp/
+        ▶️ La estafa de los likes: un trabajo que te puede salir caro: https://www.caixabank.com/es/esfera/content/estafa-whatsapp-trabajo
+        ▶️ ¿Un departamento de recursos humanos ha contactado contigo para ofrecerte un trabajo?: https://www.incibe.es/empresas/avisos/un-departamento-de-recursos-humanos-ha-contactado-contigo-para-ofrecerte-un-trabajo 
+        ▶️ Cuidado con el aumento de las falsas ofertas laborales, son un fraude: https://www.rtve.es/noticias/20241205/fraude-web-suplanta-infojobs-datos-personales/16361003.shtml
+      </description>
+    </item>
   </channel>
 </rss>
