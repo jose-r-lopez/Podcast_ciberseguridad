@@ -1782,5 +1782,19 @@
         ▶️ Cuidado con el aumento de las falsas ofertas laborales, son un fraude: https://www.rtve.es/noticias/20241205/fraude-web-suplanta-infojobs-datos-personales/16361003.shtml
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.6] 🤯😡 ¡Maldito Timo!</title>
+      <pubDate>11/03/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa6.m4a"/>
+      <itunes:duration>5:08</itunes:duration>
+      <guid isPermaLink="false">cepod119</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E6.png"/>
+      <description>
+        ▶️ Web oficial de Maldito Timo: https://maldita.es/timo/ 
+      </description>
+    </item>
   </channel>
 </rss>
