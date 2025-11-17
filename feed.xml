@@ -1810,5 +1810,23 @@
         ▶️ Web Terms of Service Didn't Read: https://tosdr.org/ 
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.8] 🆙 Explota, explotame, expló, explota explota tu suscripción</title>
+      <pubDate>11/17/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa8.m4a"/>
+      <itunes:duration>5:10</itunes:duration>
+      <guid isPermaLink="false">cepod121</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E8.png"/>
+      <description>
+        ▶️ Suscripciones no deseadas: cómo cancelar los pagos a servicios que no conocemos: https://www.consumer.es/economia-domestica/suscripciones-no-deseadas-como-cancelar-pagos-servicios-no-conocidos
+        ▶️ Vuelve la vieja estafa de la suscripción oculta: https://www.aquimicasa.net/blog/vivienda/compraventa-de-viviendas/vuelve-la-vieja-estafa-de-la-suscripcion-oculta/
+        ▶️ Un usuario se da de alta involuntariamente en una suscripción con cargos periódicos: https://www.incibe.es/linea-de-ayuda-en-ciberseguridad/casos-reales/un-usuario-se-da-de-alta-involuntariamente-en-una-suscripcion-con-cargos-periodicos
+        ▶️ Qué son las apps de fleeceware: suscripciones ocultas tras periodos de prueba gratuitos: https://www.xatakandroid.com/seguridad/estafa-apps-fleeceware-suscripciones-ocultas-periodos-prueba-gratuitos-para-hacerse-tu-dinero 
+        ▶️ Cobro fraudulento de suscripciones no realizadas: https://comunidad.movistar.es/discussions/hogar/cobro-fraudulento-de-suscripciones-no-realizadas/5246528
+      </description>
+    </item>
   </channel>
 </rss>
