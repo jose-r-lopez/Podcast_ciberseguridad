@@ -1828,5 +1828,22 @@
         ▶️ Cobro fraudulento de suscripciones no realizadas: https://comunidad.movistar.es/discussions/hogar/cobro-fraudulento-de-suscripciones-no-realizadas/5246528
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.9] 😡🤬 La lacra del grooming está en todas partes</title>
+      <pubDate>11/24/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa9.m4a"/>
+      <itunes:duration>5:10</itunes:duration>
+      <guid isPermaLink="false">cepod122</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E9.png"/>
+      <description>
+        ▶️ INCIBE - Menores. Grooming (IS4K): https://www.incibe.es/menores/tematicas/grooming
+        ▶️ INCIBE. Grooming: https://www.incibe.es/aprendeciberseguridad/grooming
+        ▶️ Una charla en Roblox lleva a una adolescente a ser víctima de grooming: https://www.incibe.es/linea-de-ayuda-en-ciberseguridad/casos-reales/una-charla-en-roblox-lleva-una-adolescente-ser-victima-de-grooming
+        ▶️ Ayuda específica para menores en el 017 del INCIBE: https://www.incibe.es/menores/ayuda
+      </description>
+    </item>
   </channel>
 </rss>
