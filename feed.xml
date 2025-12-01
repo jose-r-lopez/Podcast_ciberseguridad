@@ -1845,5 +1845,21 @@
         ▶️ Ayuda específica para menores en el 017 del INCIBE: https://www.incibe.es/menores/ayuda
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.10] 🤓😡 Fuiste a por trabajo y te cuelan un curso por lo bajo</title>
+      <pubDate>12/01/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa10.m4a"/>
+      <itunes:duration>5:03</itunes:duration>
+      <guid isPermaLink="false">cepod123</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E10.png"/>
+      <description>
+        ▶️ Una academia capta alumnos con ofertas de trabajo falsas para una oposición inexistente: https://www.levante-emv.com/comunitat-valenciana/2014/08/30/academia-capta-alumnos-ofertas-trabajo-12713288.html
+        ▶️ El SEPE advierte contra cursos de formación con "publicidad engañosa": en qué debes fijarte antes de pagar: https://www.businessinsider.es/desarrollo-profesional/sepe-advierte-cursos-formacion-publicidad-enganosa-debes-fijarte-antes-pagar-1402274
+        ▶️ Diez maneras de encontrar empleo... falso: https://empleo.ugr.es/noticias-empleo/diez-maneras-de-encontrar-empleo-falso/
+      </description>
+    </item>
   </channel>
 </rss>
