@@ -1861,5 +1861,24 @@
         ▶️ Diez maneras de encontrar empleo... falso: https://empleo.ugr.es/noticias-empleo/diez-maneras-de-encontrar-empleo-falso/
       </description>
     </item>
+      <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.11] 👮🎭 Denunciar los delitos es necesario, y puede ser anónimo</title>
+      <pubDate>12/02/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa11.m4a"/>
+      <itunes:duration>5:11</itunes:duration>
+      <guid isPermaLink="false">cepod124</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E11.png"/>
+      <description>
+        ▶️ Aplicación AlertCops: https://alertcops.ses.mir.es/publico/alertcops/
+        ▶️ Colaboración cuidadana anónima: https://www.policia.es/_es/colabora_informar.php?strTipo=CGPJDT#
+        ▶️ Colaboración ciudadana del Ministerio de Interior: https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/colaboracion-ciudadana/
+        ▶️ ProtonVPN: https://protonvpn.com/es-es
+        ▶️ ProtonMail: https://proton.me/es-es/mail
+        ▶️ Canal de denuncias anónimas de Prensa Ibérica: https://www.prensaiberica.es/canal-de-denuncias/
+      </description>
+    </item>
   </channel>
 </rss>
