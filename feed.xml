@@ -1861,7 +1861,7 @@
         ▶️ Diez maneras de encontrar empleo... falso: https://empleo.ugr.es/noticias-empleo/diez-maneras-de-encontrar-empleo-falso/
       </description>
     </item>
-      <item>
+    <item>
       <author>José Manuel Redondo</author>
       <itunes:author>José Manuel Redondo</itunes:author>
       <title>[T4.11] 👮🎭 Denunciar los delitos es necesario, y puede ser anónimo</title>
@@ -1878,6 +1878,22 @@
         ▶️ ProtonVPN: https://protonvpn.com/es-es
         ▶️ ProtonMail: https://proton.me/es-es/mail
         ▶️ Canal de denuncias anónimas de Prensa Ibérica: https://www.prensaiberica.es/canal-de-denuncias/
+      </description>
+    </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.12] 📦🎭 Cuando suplantan a la empresa de mensajería con un robo de datos</title>
+      <pubDate>12/22/2025</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa12.m4a"/>
+      <itunes:duration>5:13</itunes:duration>
+      <guid isPermaLink="false">cepod125</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E12.png"/>
+      <description>
+        ▶️ Detectados SMS que suplantan a varias compañías de envíos para robar tu dinero: https://www.incibe.es/ciudadania/avisos/detectados-sms-que-suplantan-la-compania-de-envios-mrw-para-robar-
+        ▶️ Una sofisticada estafa vía SMS suplanta a MRW para robar credenciales bancarias: https://elpais.com/tecnologia/2021-12-28/una-sofisticada-estafa-via-sms-suplanta-a-mrw-para-robar-credenciales-bancarias.html
+        ▶️ Alerta por una sofisticada estafa con SMS falsos de la empresa MRW para robar datos bancarios: https://www.lasexta.com/noticias/ciencia-tecnologia/alerta-sofisticada-estafa-sms-falsos-empresa-mrw-robar-datos-bancarios_2021123061cde1d5572a7d000122c0ef.html
       </description>
     </item>
   </channel>
