@@ -1896,5 +1896,21 @@
         ▶️ Alerta por una sofisticada estafa con SMS falsos de la empresa MRW para robar datos bancarios: https://www.lasexta.com/noticias/ciencia-tecnologia/alerta-sofisticada-estafa-sms-falsos-empresa-mrw-robar-datos-bancarios_2021123061cde1d5572a7d000122c0ef.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.13] 💬🎭 Cuando suplantan a la empresa de mensajería con un robo de datos</title>
+      <pubDate>01/12/2026</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa13.m4a"/>
+      <itunes:duration>5:10</itunes:duration>
+      <guid isPermaLink="false">cepod126</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E13.png"/>
+      <description>
+        ▶️ Nueva campaña de phishing utilizando códigos QR: https://www.incibe.es/empresas/avisos/nueva-campana-de-phishing-utilizando-codigos-qr
+        ▶️ Escanea códigos QR de manera fiable y segura: https://www.incibe.es/ciudadania/blog/escanea-codigos-qr-de-manera-fiable-y-segura
+        ▶️ Ghost Pairing: https://unaaldia.hispasec.com/2026/01/ghostpairing-una-estafa-secuestra-cuentas-de-whatsapp-sin-robar-contrasenas-ni-duplicar-la-sim.html
+      </description>
+    </item>
   </channel>
 </rss>
