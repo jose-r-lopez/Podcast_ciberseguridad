@@ -1912,5 +1912,21 @@
         ▶️ Ghost Pairing: https://unaaldia.hispasec.com/2026/01/ghostpairing-una-estafa-secuestra-cuentas-de-whatsapp-sin-robar-contrasenas-ni-duplicar-la-sim.html
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.14] 🎭🎭 Deepfakes y filtraciones se combinan para tocarnos los eurones</title>
+      <pubDate>01/19/2026</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa14.m4a"/>
+      <itunes:duration>5:12</itunes:duration>
+      <guid isPermaLink="false">cepod127</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E14.png"/>
+      <description>
+        ▶️ Endesa notifica a sus clientes una filtración de datos personales: https://www.incibe.es/ciudadania/avisos/endesa-notifica-sus-clientes-una-filtracion-de-datos-personales
+        ▶️ Endesa alerta de una brecha en su seguridad que compromete los datos personales y bancarios de sus clientes: https://maldita.es/timo/20260119/endesa-comunicado-filtracion-datos-clientes/
+        ▶️ Brechas de seguridad de datos personales: qué son y cómo actuar: https://www.aepd.es/prensa-y-comunicacion/blog/brechas-de-seguridad-de-datos-personales-que-son-y-como-actuar
+      </description>
+    </item>
   </channel>
 </rss>
