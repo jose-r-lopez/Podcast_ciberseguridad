@@ -1928,5 +1928,19 @@
         ▶️ Brechas de seguridad de datos personales: qué son y cómo actuar: https://www.aepd.es/prensa-y-comunicacion/blog/brechas-de-seguridad-de-datos-personales-que-son-y-como-actuar
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.15] 🎁❌ Cuando vas a vender algo y alguien intenta venderte</title>
+      <pubDate>01/26/2026</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa15.m4a"/>
+      <itunes:duration>5:09</itunes:duration>
+      <guid isPermaLink="false">cepod128</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E15.png"/>
+      <description>
+        ▶️ Un caso real: https://www.linkedin.com/feed/update/urn:li:activity:7367100354133479426/
+      </description>
+    </item>
   </channel>
 </rss>
