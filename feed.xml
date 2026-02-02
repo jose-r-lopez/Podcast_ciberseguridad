@@ -1942,5 +1942,19 @@
         ▶️ Un caso real: https://www.linkedin.com/feed/update/urn:li:activity:7367100354133479426/
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.16] 👻🤯 La verdad no siempre está ahí fuera</title>
+      <pubDate>02/02/2026</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa16.m4a"/>
+      <itunes:duration>5:04</itunes:duration>
+      <guid isPermaLink="false">cepod129</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E16.png"/>
+      <description>
+        ▶️ Noticias falsas (materiales del INCIBE): https://www.incibe.es/ciudadania/tematicas/bulos-fake-news
+      </description>
+    </item>
   </channel>
 </rss>
