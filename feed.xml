@@ -1956,5 +1956,19 @@
         ▶️ Noticias falsas (materiales del INCIBE): https://www.incibe.es/ciudadania/tematicas/bulos-fake-news
       </description>
     </item>
+   <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.17] 💳⚠️ Estafa de la renovación de la tarjeta sanitaria</title>
+      <pubDate>02/09/2026</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa17.m4a"/>
+      <itunes:duration>4:58</itunes:duration>
+      <guid isPermaLink="false">cepod130</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E17.jpg"/>
+      <description>
+        ▶️ Aviso de la Consejería de Salud Asturiana: https://actualidad.asturias.es/-/fraudetarjeta32?redirect=%2Fnoticias
+      </description>
+    </item>
   </channel>
 </rss>
