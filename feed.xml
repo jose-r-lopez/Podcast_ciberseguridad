@@ -1970,5 +1970,19 @@
         ▶️ Aviso de la Consejería de Salud Asturiana: https://actualidad.asturias.es/-/fraudetarjeta32?redirect=%2Fnoticias
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.18] 😎💰 (Falsos) famosos anunciando (falsos) esquemas de inversión (Parte I)</title>
+      <pubDate>02/16/2026</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa18.m4a"/>
+      <itunes:duration>5:08</itunes:duration>
+      <guid isPermaLink="false">cepod131</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E18.jpg"/>
+      <description>
+        ▶️ No, Gloria Serra no ha promocionado la supuesta plataforma de inversión Velocidad Luxten: es un timo: https://maldita.es/timo/20260203/gloria-serra-promociona-la-plataforma-de-inversion-velocidad-luxten-con-la-que-ganar-entre-2800-y-4500-euros-al-mes/
+      </description>
+    </item>
   </channel>
 </rss>
