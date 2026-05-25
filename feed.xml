@@ -2147,5 +2147,19 @@
         ▶️ Descripción del bulo en "La buloteca": https://maldita.es/buloteca/claim/si-devuelves-la-llamada-a-uno-de-los-numeros-de-telefono-con-alguno-de-estos-prefijos-pueden-copiar-tu-lista-de-contactos-en-tres-segundos-y-acceder-a-tu-informacion-bancaria
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.30] 😱 + 🏃‍ + ▶️ = Miedo + prisa + acción = desastre💥 </title>
+      <pubDate>05/25/2026</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa30.m4a"/>
+      <itunes:duration>5:09</itunes:duration>
+      <guid isPermaLink="false">cepod143</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E30.jpg"/>
+      <description>
+        ▶️ Cómo denunciar si has sido víctima de un fraude o delito: https://www.incibe.es/ciudadania/ayuda/denuncia
+      </description>
+    </item>
   </channel>
 </rss>
