@@ -2161,5 +2161,19 @@
         ▶️ Cómo denunciar si has sido víctima de un fraude o delito: https://www.incibe.es/ciudadania/ayuda/denuncia
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T4.31] 😱📝 ¡Estoy en una filtración de datos! ¿Qué hago ahora? </title>
+      <pubDate>06/01/2026</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t4/Programa31.m4a"/>
+      <itunes:duration>5:03</itunes:duration>
+      <guid isPermaLink="false">cepod144</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT4E31.png"/>
+      <description>
+        ▶️ Mis datos personales aparecen en una filtración, ¿qué puedo hacer?: https://www.incibe.es/ciudadania/blog/mis-datos-personales-aparecen-en-una-filtracion-que-puedo-hacer
+      </description>
+    </item>
   </channel>
 </rss>
