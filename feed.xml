@@ -2265,5 +2265,21 @@
         ▶️ Quiere un móvil. Claves para tomar una decisión responsable: https://www.incibe.es/menores/blog/quiere-un-movil-claves-para-tomar-una-decision-responsable
       </description>
     </item>
+    <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T5.03] 📱🧒👧 ...pero aunque hable con él/ella quiero controlar lo que hace </title>
+      <pubDate>10/05/2026</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t5/Programa3.m4a"/>
+      <itunes:duration>5:08</itunes:duration>
+      <guid isPermaLink="false">cepod151</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT5E3.png"/>
+      <description>
+        ▶️ Guía de herramientas de control parental: https://www.incibe.es/sites/default/files/contenidos/is4k_guia_controles_parentales.pdf
+        ▶️ Control parental: https://www.incibe.es/menores/familias/catalogo-control-parental
+        ▶️ Listado de herramientas de control parental: https://www.incibe.es/menores/familias/control-parental?origen=app&page=3
+      </description>
+    </item>
   </channel>
 </rss>
