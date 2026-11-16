@@ -2328,5 +2328,20 @@
         ▶️ Esos infames anuncios ambulantes de Tai-Chi muestran que la inteligencia artificial está ayudando a los estafadores y no solo en la forma que pensábamos: https://estudioarquitectos.cl/2026/07/26/esos-infames-anuncios-ambulantes-de-tai-chi-muestran-que-la-inteligencia-artificial-esta-ayudando-a-los-estafadores-y-no-solo-en-la-forma-que-pensabamos/
       </description>
     </item>
+     <item>
+      <author>José Manuel Redondo</author>
+      <itunes:author>José Manuel Redondo</itunes:author>
+      <title>[T5.07] 😎 Ten mucho ojo: ¡No hay gafas "mágicas" que arreglen todos tus problemas!  </title>
+      <pubDate>11/16/2026</pubDate>
+      <enclosure url="https://jose-r-lopez.github.io/Podcast_ciberseguridad/audio/t5/Programa7.m4a"/>
+      <itunes:duration>5:11</itunes:duration>
+      <guid isPermaLink="false">cepod155</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/jose-r-lopez/Podcast_ciberseguridad/main/covers/PodcastT5E7.jpg"/>
+      <description>
+        ▶️ FACUA denuncia la venta de unas gafas que prometen "aclarar la visión" y corregir otros defectos de la vista de forma milagrosa: https://facua.org/noticias/facua-denuncia-la-venta-de-unas-gafas-que-prometen-aclarar-la-vision-y-otros-defectos-de-la-vista-de-forma-milagrosa/
+        ▶️ YouTube retira un anuncio de unas falsas gafas inteligentes tras las protestas del CSIC: “Son un fraude y un disparate”: https://www.eldiario.es/sociedad/youtube-retira-anuncio-falsas-gafas-inteligentes-protestas-csic-son-fraude-disparate_1_13585096.html 
+      </description>
+    </item>
   </channel>
 </rss>
